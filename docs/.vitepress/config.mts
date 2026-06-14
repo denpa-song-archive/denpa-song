@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
 
-const isProd = process.env.NODE_ENV === 'production'
-
 export default defineConfig({
   vite: {
     plugins: [
@@ -11,7 +9,7 @@ export default defineConfig({
       })
     ]
   },
-  base: "/",
+  base: "/denpa-song/",
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",
@@ -55,12 +53,12 @@ export default defineConfig({
       {
         text: '<span class="i-lucide:badge-info"></span> About',
         collapsed: false,
-        link: '/about/',
+        link: '/denpa-song/about/',
         items: [
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
             collapsed: true,
-            link: '/about/glossary'
+            link: '/denpa-song/about/glossary'
           },
           {
             text: '<span class="i-lucide:book-open-text"></span> 🚧 Description',
@@ -81,7 +79,7 @@ export default defineConfig({
         items: [
           {
             text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/resources#portals'
+            link: '/denpa-song/resources#portals'
           },
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
