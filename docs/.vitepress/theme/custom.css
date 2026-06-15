@@ -77,6 +77,35 @@
     -webkit-overflow-scrolling: touch !important;
   }
 
+  .vp-doc .pre-table thead {
+    display: none;
+  }
+
+  .vp-doc .pre-table tr {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+  }
+
+  .vp-doc .pre-table tr td::before {
+    display: inline-block;
+    margin-right: 1ch;
+    font-weight: 700;
+    font-family: 'MS Gothic', 'Courier New' !important;
+  }
+
+  .vp-doc .pre-table tr td:nth-child(1)::before {
+    content: 'Release Date -';
+  }
+
+  .vp-doc .pre-table tr td:nth-child(2)::before {
+    content: 'Title -';
+  }
+
+  .vp-doc .pre-table tr td:nth-child(3)::before {
+    content: 'Video -';
+  }
+
   /* scroll indicator wrapper */
 
   .vp-doc {
@@ -491,6 +520,9 @@ input[type="button"] {
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
   margin: 1.5rem 0;
+  @media screen and (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 .term-card {
