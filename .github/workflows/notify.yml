@@ -1,0 +1,27 @@
+name: Discord CI Status
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Send Discord notification
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          status: ${{ job.status }}
+          title: "Denpa Song Archive Deployment"
+          description: |
+            **Commit:** `${{ github.event.head_commit.message }}`
+            **Author:** ${{ github.event.head_commit.author.username }}
+            **Branch:** `${{ github.ref_name }}`
+          url: ${{ github.event.head_commit.url }}
