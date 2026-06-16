@@ -1,5 +1,5 @@
 <script setup>
-import { play } from '../playerState'
+import { play } from '../composables/playerState'
 import { withBase } from 'vitepress'
 
 const props = defineProps({

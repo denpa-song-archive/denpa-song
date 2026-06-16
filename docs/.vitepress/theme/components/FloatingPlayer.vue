@@ -1,6 +1,6 @@
 <script setup>
 import { ref, watch, nextTick } from 'vue'
-import { currentVideo, isPlaying, stop } from '../playerState'
+import { currentVideo, isPlaying, stop } from '../composables/playerState'
 
 const videoRef = ref(null)
 
