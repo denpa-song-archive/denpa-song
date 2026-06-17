@@ -68,6 +68,9 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 1rem;
     margin: 1.5rem 0;
+    width: 100%;
+    max-width: 100%;
+    overflow: visible !important;
 }
 
 .term-card {
@@ -79,6 +82,8 @@
     border-radius: 12px;
     border: 1px solid var(--vp-c-divider);
     transition: all 0.2s ease;
+    word-wrap: break-word;
+    max-width: 100%;
 }
 
 .term-card:hover {
@@ -153,4 +158,31 @@
     font-size: 0.85rem;
     font-weight: 500;
     color: var(--vp-c-text-1);
+}
+
+@media (max-width: 768px) {
+    .term-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .term-card {
+        padding: 0.875rem;
+    }
+
+    .term-main {
+        font-size: 1.25rem;
+    }
+
+    .term-title {
+        font-size: 0.95rem;
+    }
+
+    .term-subtitle {
+        font-size: 0.8rem;
+    }
+
+    .term-description {
+        font-size: 0.8rem;
+        line-height: 1.3;
+    }
 }

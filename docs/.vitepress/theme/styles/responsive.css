@@ -29,21 +29,6 @@
     }
 }
 
-/* Mobile */
-@media (max-width: 767px) {
-    .vp-doc table {
-        display: block !important;
-        width: max-content !important;
-        min-width: 100% !important;
-        overflow-x: auto !important;
-        -webkit-overflow-scrolling: touch !important;
-    }
-
-    .vp-doc {
-        overflow-x: auto !important;
-    }
-}
-
 @media (max-width: 768px) {
     .VPNavBarTitle .logo {
         width: 60px !important;

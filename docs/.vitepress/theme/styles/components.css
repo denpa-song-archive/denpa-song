@@ -22,6 +22,12 @@
     border-radius: 0px !important;
 }
 
+/* ========== CHEVRON ========== */
+
+.breadcrumb-separator .i-lucide\:chevron-right {
+    color: var(--vp-c-text-1) !important;
+}
+
 /* ========== TIP BOXES ========== */
 
 .custom-block.tip {
@@ -54,6 +60,22 @@
 .custom-block.tip {
     padding-top: 15px !important;
     padding-right: 90px !important;
+}
+
+@media (max-width: 768px) {
+    .custom-block.tip::after {
+        width: 50px !important;
+        height: 50px !important;
+        right: 5px !important;
+        top: 5px !important;
+        opacity: 0.75 !important;
+        border-width: 0px !important;
+    }
+
+    .custom-block.tip {
+        padding-top: 10px !important;
+        padding-right: 65px !important;
+    }
 }
 
 /* ========== COLORCODING ========== */
@@ -126,4 +148,91 @@
     padding: 0;
     font: inherit;
     text-decoration: underline;
+}
+
+/* ========== VITEPRESS TABS PLUGIN ========== */
+
+.plugin-tabs {
+    padding: 0 !important;
+    margin: 1 !important;
+    max-width: 100% !important;
+}
+
+.plugin-tabs--tab-panel {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.plugin-tabs--tab-list {
+    padding: 0 !important;
+    margin: 0 0 12px 0 !important;
+    max-width: 100% !important;
+}
+
+.plugin-tabs--content {
+    padding: 0 !important;
+}
+
+@media (max-width: 768px) {
+    .plugin-tabs--tab-list {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        gap: 4px !important;
+        padding: 0 !important;
+        margin: 0 0 12px 0 !important;
+        width: 100% !important;
+    }
+
+    .plugin-tabs--tab {
+        padding: 0px 8px !important;
+        font-size: 12px !important;
+        line-height: 2.5 !important;
+        flex: 0 1 auto !important;
+    }
+
+    .plugin-tabs--tab-panel {
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+    }
+
+    .plugin-tabs--tab-panel td,
+    .plugin-tabs--tab-panel th {
+        padding: 6px 8px !important;
+        font-size: 12px !important;
+    }
+}
+
+/* ========== CODE BLOCKS ========== */
+
+@media (min-width: 769px) {
+    .vp-doc div[class*="language-"] {
+        overflow-x: auto !important;
+    }
+
+    .vp-doc pre {
+        overflow-x: auto !important;
+        white-space: pre !important;
+        word-wrap: normal !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .vp-doc div[class*="language-"] {
+        overflow-x: hidden !important;
+        overflow-y: auto !important;
+        border-radius: 4px !important;
+        margin: 0.75rem 0 !important;
+        max-width: 100% !important;
+        width: 100% !important;
+        display: block !important;
+    }
+
+    .vp-doc pre code {
+        white-space: pre-wrap !important;
+        word-wrap: break-word !important;
+        overflow-wrap: break-word !important;
+        max-width: 100% !important;
+        display: block !important;
+    }
 }

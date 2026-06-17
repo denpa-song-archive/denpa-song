@@ -13,6 +13,12 @@ h3 {
     font-size: 23px !important;
 }
 
+@media (max-width: 768px) {
+    .VPContent .content-container h2 {
+        padding-top: 2px !important;
+    }
+}
+
 h2>* {
     margin-left: 13px;
 }
