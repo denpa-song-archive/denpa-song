@@ -17,7 +17,7 @@
 .denpa-quote {
     text-align: center;
     margin: 1rem 0 1rem;
-    padding: 0.75rem;
+    padding: 0.3rem;
     border-top: 1px solid var(--vp-c-divider);
     border-bottom: 1px solid var(--vp-c-divider);
 }
@@ -26,7 +26,6 @@
     font-size: 0.7rem;
     color: var(--vp-c-text-2);
     margin: 0;
-    line-height: 1.4;
 }
 
 .quote-source {

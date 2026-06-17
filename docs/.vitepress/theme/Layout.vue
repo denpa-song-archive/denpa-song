@@ -52,14 +52,12 @@ watch(() => page.value.relativePath, (path) => {
     <template #doc-before>
       <Breadcrumb/>
     </template>
-
-    <template #nav-bar-content-after>
-      <a class="moe-banner" href="https://github.com/denpa-song-archive/denpa-song">
-        <img src="/assets/banner.png" />
-      </a>
-    </template>
-
     <template #layout-bottom>
+      <div class="moe-banner">
+        <a href="https://github.com/denpa-song-archive/denpa-song">
+          <img src="/assets/banner.png" />
+        </a>
+      </div>
       <FloatingPlayer />
     </template>
   </Layout>

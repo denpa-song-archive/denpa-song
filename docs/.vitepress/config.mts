@@ -206,7 +206,7 @@ export default defineConfig({
           },
           */
           {
-            text: '<span class="i-lucide:sprout"></span> Pre 2000s Denpa Songs',
+            text: '<span class="i-lucide:sprout"></span> Pre 2000s Denpa Song',
             collapsed: true,
             link: '/misc/pre',
           },
@@ -227,6 +227,11 @@ export default defineConfig({
             link: '/misc/iceberg',
           },
           */
+          {
+            text: '<span class="i-lucide:image"></span> Banner Gallery',
+            collapsed: true,
+            link: '/misc/banner',
+          },
           {
             text: '<span class="i-lucide:graduation-cap"></span> Culture Reading',
             collapsed: true,

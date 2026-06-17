@@ -50,7 +50,8 @@ export default defineConfig({
     'i-lucide:gamepad-2',
     'i-lucide:rabbit',
     'i-lucide:bar-chart-big',
-    'i-lucide:graduation-cap'
+    'i-lucide:graduation-cap',
+    'i-lucide:image'
   ],
   presets: [
     presetUno(),

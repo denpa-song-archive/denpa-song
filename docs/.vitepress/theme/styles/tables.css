@@ -4,7 +4,6 @@
 .vp-doc div[class*="table"] {
     width: 100% !important;
     max-width: 100% !important;
-    overflow-x: auto !important;
 }
 
 .vp-doc table th {
@@ -26,6 +25,7 @@
     border-radius: 0px;
 }
 
+/*
 @media (max-width: 768px) {
     .vp-doc table {
         font-size: 0.5rem !important;
@@ -46,3 +46,4 @@
         max-width: 30px !important;
     }
 }
+*/

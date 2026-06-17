@@ -44,3 +44,10 @@
     padding-top: 0 !important;
     margin-top: 0 !important;
 }
+
+.VPDoc,
+.VPDoc .content,
+.VPDoc .container {
+    padding-bottom: 6px !important;
+
+}

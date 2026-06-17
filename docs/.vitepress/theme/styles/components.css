@@ -1,5 +1,9 @@
 /* ========== SEARCH ========== */
 
+.VPNavBarSearch {
+    flex-grow: 0 !important;
+}
+
 .DocSearch-Button {
     border-radius: 0px !important;
     background-color: transparent !important;
@@ -89,33 +93,6 @@
         padding-top: 10px !important;
         padding-right: 65px !important;
     }
-}
-
-/* ========== COLORCODING ========== */
-
-.primary {
-    color: #3ecb76fd !important;
-    background: #42db8721;
-    border-radius: 6px;
-    padding: 0.25rem 0.5rem;
-    display: inline-block;
-}
-
-.primary:hover {
-    color: #36aa64fd !important;
-    text-decoration: underline;
-}
-
-.secondary {
-    color: #b1a537c6 !important;
-    background: #cec03e19;
-    border-radius: 6px;
-    padding: 0.25rem 0.5rem;
-    display: inline-block;
-}
-
-.secondary:hover {
-    color: #948a2dc6 !important;
 }
 
 /* ========== FLOATING PLAYER ========== */
