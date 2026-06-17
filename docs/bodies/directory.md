@@ -7,7 +7,7 @@
 - please note that [yellow](){.secondary} indicates secondary source (twitter, articles, ..)
 :::
 
-## Publishers, Labels & Agencies
+# Publishers, Labels & Agencies
 
 ::: tip TIP
 - please note that these entities involve a legal system and are officially registered
@@ -26,7 +26,7 @@
 
 </div>
 
-## Circles
+# Circles
 
 ::: tip TIP
 - please note that a circle involves no legal system
@@ -56,7 +56,7 @@
 </div>
 
 
-## Units
+# Units
 
 ::: tip TIP
 - please note that units are usually temporary groups organized or presented by a circle
@@ -103,7 +103,7 @@
 </div>
 
 
-## Other 
+# Other 
 
 ::: tip TIP
 - please note that these are exception cases where they may not fit the label, circle or unit category despite resembling some sort of group; usually because of the involvement of a legal system, being a separate division of a circle or being a separate alias before the retirement or reformation of the label or circle
@@ -119,7 +119,7 @@
 
 </div>
 
-## Vocalists
+# Vocalists
 
 ::: tip TIP
 - please note that vocalists are usually the frontmen/singers and in some cases might also take the role of the arranger or composer
@@ -176,7 +176,7 @@
 
 </div>
 
-## Composers
+# Composers
 
 <div class="directory-table-wrapper">
 
@@ -248,7 +248,7 @@
 
 </div>
 
-## Collabs
+# Collabs
 
 ::: tip TIP
 - not exactly falling into any of the category above

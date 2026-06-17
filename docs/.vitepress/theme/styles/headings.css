@@ -4,7 +4,7 @@ h1,
 h2,
 h3 {
     background: var(--vp-c-bg);
-    border-left: 4px solid var(--vp-c-divider);
+    border-left: 1px solid var(--vp-c-divider);
     padding: 0px 12px;
     border-top: 0 !important;
 }
@@ -13,10 +13,11 @@ h3 {
     font-size: 23px !important;
 }
 
-.VPContent .content-container h2 {
-    padding-top: 2px !important;
+h2>* {
+    margin-left: 16px;
 }
 
-h2>* {
-    margin-left: 13px;
+.header-anchor {
+    left: -0.2em !important;
+    right: auto !important;
 }
