@@ -1,24 +1,17 @@
-### WIP 
+<Collapsible title="Work in progress">
 
 to understand context, we must look at the environment; denpa-song went through various periods & is generally strongly associated with entertainment & japanese culture
 
-```
-the following can be said in summary:
+- the following can be said in summary:
+  - 1960s-1980s [ RISE OF IDOL KAYO | RISE OF DOUJIN | BISHOUJO BOOM ]
+  - v
+  - 1990s [ RISE OF J-POP | VN BOOM | AKIHABARA OTAKU TAKEOVER ] 
+  - v
+  - 2000s [ BBS CULTURE (2ch) | NICO NICO DOUGA (UTAITE) | VOCALOID ] 
+  - v
+  - 2010s-2020s [ DENPA EXPOSURE OVERSEAS (4chan /jp/) | RHYTHM GAMES | VTUBER INDUSTRY | "CUTECORE" ]
 
-1960s-1980s [ RISE OF IDOL KAYO | RISE OF DOUJIN | BISHOUJO BOOM ]
-
-v
-
-1990s [ RISE OF J-POP | VN BOOM | AKIHABARA OTAKU TAKEOVER ] 
-
-v
-
-2000s [ BBS CULTURE (2ch) | NICO NICO DOUGA (UTAITE) | VOCALOID ] 
-
-v
-
-2010s-2020s [ DENPA EXPOSURE OVERSEAS (4chan /jp/) | RHYTHM GAMES | VTUBER INDUSTRY | "CUTECORE" ]
-```
+</Collapsible>
 
 ---
 

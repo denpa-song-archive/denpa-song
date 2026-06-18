@@ -470,9 +470,11 @@ iteration #31 couldn't be retrieved and are therefore missing
 
 # Streaming
 
-::: tip TIP
-Last updated: May 6, 2026
-:::
+<Collapsible title="Notice">
+
+- Last updated: May 6, 2026
+
+</Collapsible>
 
 :::: tabs
 

@@ -1,0 +1,44 @@
+/* ========== SEARCH ========== */
+
+.VPNavBarSearch {
+    flex-grow: 0 !important;
+}
+
+.home .DocSearch-Button {
+    display: none !important;
+}
+
+.DocSearch-Button {
+    border-radius: 0px !important;
+    background-color: transparent !important;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+    transition: all 0.1s ease !important;
+}
+
+.DocSearch-Button:hover {
+    background-color: rgba(212, 181, 196, 0.15) !important;
+    box-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2) !important;
+}
+
+.DocSearch-Button-Placeholder,
+.DocSearch-Button-Key,
+.DocSearch-Button-Keys {
+    background-color: transparent !important;
+}
+
+.DocSearch-Button-Key {
+    border-radius: 0px !important;
+}
+
+@media (max-width: 768px) {
+    .DocSearch-Button {
+        background-color: transparent !important;
+        box-shadow: none !important;
+        border: none !important;
+    }
+
+    .DocSearch-Button:hover {
+        background-color: transparent !important;
+        box-shadow: none !important;
+    }
+}

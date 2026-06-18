@@ -5,8 +5,9 @@
 @import './content.css';
 @import './headings.css';
 @import './tables.css';
-@import './cards.css';
-@import './components.css';
-@import './pages.css';
-@import './responsive.css';
-@import './typography.css'
+@import './custom.css';
+@import './typography.css';
+@import './scrollbar.css';
+@import './search.css';
+@import './breadcrumb.css';
+@import './plugin-tabs.css';

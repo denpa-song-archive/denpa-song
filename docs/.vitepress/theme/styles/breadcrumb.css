@@ -1,0 +1,5 @@
+/* ========== BREADCRUMB ========== */
+
+.breadcrumb-separator .i-lucide\:chevron-right {
+    color: var(--vp-c-text-1) !important;
+}

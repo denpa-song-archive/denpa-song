@@ -1,0 +1,52 @@
+/* ========== VITEPRESS TABS PLUGIN ========== */
+
+.plugin-tabs {
+    padding: 0 !important;
+    margin: 1 !important;
+    max-width: 100% !important;
+}
+
+.plugin-tabs--tab-panel {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.plugin-tabs--tab-list {
+    padding: 0 !important;
+    margin: 0 0 12px 0 !important;
+    max-width: 100% !important;
+}
+
+.plugin-tabs--content {
+    padding: 0 !important;
+}
+
+@media (max-width: 768px) {
+    .plugin-tabs--tab-list {
+        display: flex !important;
+        flex-wrap: wrap !important;
+        gap: 4px !important;
+        padding: 0 !important;
+        margin: 0 0 12px 0 !important;
+        width: 100% !important;
+    }
+
+    .plugin-tabs--tab {
+        padding: 0px 8px !important;
+        font-size: 12px !important;
+        line-height: 2.5 !important;
+        flex: 0 1 auto !important;
+    }
+
+    .plugin-tabs--tab-panel {
+        padding: 0 !important;
+        margin: 0 !important;
+        width: 100% !important;
+    }
+
+    .plugin-tabs--tab-panel td,
+    .plugin-tabs--tab-panel th {
+        padding: 6px 8px !important;
+        font-size: 12px !important;
+    }
+}

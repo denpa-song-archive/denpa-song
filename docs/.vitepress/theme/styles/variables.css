@@ -10,3 +10,10 @@
     --vp-c-divider: #f0d9e5;
     --vp-code-block-bg: var(--vp-c-bg);
 }
+
+@media (min-width: 1440px) {
+    :root {
+        --vp-sidebar-width: 300px !important;
+        --vp-layout-max-width: 100% !important;
+    }
+}

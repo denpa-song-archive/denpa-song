@@ -2,7 +2,7 @@
 
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress'
-import { watch, onMounted } from 'vue'  // ← Add onMounted
+import { watch, onMounted } from 'vue'
 import Breadcrumb from './components/Breadcrumb.vue'
 import FloatingPlayer from './components/FloatingPlayer.vue'
 

@@ -7,7 +7,6 @@
     margin-right: 10px !important;
 }
 
-/* Sidebar spacing */
 #VPSidebarNav *,
 #VPSidebarNav>.group {
     border-top: 0 !important;
@@ -21,7 +20,6 @@
     gap: 10px !important;
 }
 
-/* Tree line */
 #VPSidebarNav .group .items .VPSidebarItem {
     border-left: 1px solid var(--vp-c-divider) !important;
     border-radius: 0 !important;
@@ -35,7 +33,6 @@
     padding-left: 0 !important;
 }
 
-/* Hover states */
 #VPSidebarNav .group .VPSidebarItem>.item>.text.active,
 #VPSidebarNav .group .VPSidebarItem>.item>.text:hover,
 #VPSidebarNav .group .VPSidebarItem>.item .link .text,
@@ -43,32 +40,36 @@
     display: flex !important;
     align-items: center !important;
     gap: 10px !important;
+    /* 
+    padding-bottom: 2px; 
+    */
 }
 
-/* Caret */
 .VPSidebar .caret-icon {
     color: var(--vp-c-text-1) !important;
 }
 
-/* Right sidebar */
 .VPDocAsideOutline {
     background-color: var(--vp-c-bg-soft) !important;
     padding: 10px;
-    font-family: 'MS Gothic', monospace;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
     margin-right: 8px !important;
 }
 
+.VPDocAsideOutline li {
+    margin-bottom: 0px !important;
+}
+
 .outline-link {
-    line-height: 24px !important;
+    line-height: 26px !important;
     font-size: 14px !important;
+    padding: 2px 0 !important;
+    display: block !important;
 }
 
 .aside-curtain {
     display: none !important;
 }
 
-/* Remove Backdrop of Mobile Sidebar*/
 @media (max-width: 960px) {
 
     .VPBackdrop,

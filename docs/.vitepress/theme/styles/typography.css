@@ -1,4 +1,4 @@
-/* ========== TYPOGRAPHY & SPACING ========== */
+/* ========== TYPOGRAPHY ========== */
 
 html {
     font-size: 16px;
@@ -6,21 +6,9 @@ html {
 
 body {
     font-size: 1rem;
+    font-synthesis: weight;
 }
 
 li {
     margin-bottom: 0.25rem;
-}
-
-/* ========== RESPONSIVE TEXT SIZES ========== */
-
-@media (max-width: 768px) {
-    .VPContent .content-container {
-        font-size: 14px;
-    }
-
-    .VPContent .content-container p,
-    .VPContent .content-container .custom-block * {
-        line-height: 1.2;
-    }
 }

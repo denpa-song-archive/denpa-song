@@ -1,23 +1,13 @@
-/* ========== CURTAIN ========== */
+/* ========== NAVBAR ========== */
 
-@media (min-width: 769px) {
-
-    .curtain,
-    .VPTheme .curtain {
-        min-height: 110px !important;
-        height: 110px !important;
-        overflow: visible !important;
-        background-color: var(--vp-c-bg-soft) !important;
-    }
-}
-
-.VPNavBarTitle.has-sidebar .title {
+.VPLocalNav,
+.VPNavBar:not(.top),
+.VPNavBar.has-sidebar.top,
+.VPLocalNav.has-sidebar {
+    background-color: transparent !important;
+    backdrop-filter: none !important;
     border-bottom: none !important;
-}
-
-.curtain,
-.VPTheme .curtain {
-    background-color: var(--vp-c-bg-soft) !important;
+    box-shadow: none !important;
 }
 
 /* ========== NAVBAR ========== */
@@ -37,28 +27,23 @@
     display: none !important;
 }
 
+/* ========== NAVBAR HAMBURGER ========== */
+
 .VPNavBarHamburger {
     display: none !important;
 }
 
-/* Local nav */
-.VPLocalNav,
-.VPNavBar:not(.top),
-.VPNavBar.has-sidebar.top,
-.VPLocalNav.has-sidebar {
-    background-color: transparent !important;
-    backdrop-filter: none !important;
-    border-bottom: none !important;
-    box-shadow: none !important;
-}
+/* ========== VPNAVBAR TITLE ========== */
 
-/* ========== LOGO & TITLE ========== */
+.VPNavBarTitle.has-sidebar .title {
+    border-bottom: none !important;
+}
 
 .VPNavBarTitle .logo {
     width: 100px !important;
     height: auto !important;
     position: relative;
-    top: 10px;
+    top: 12px;
     margin-right: 12px;
     filter: drop-shadow(0 0 10px rgba(255, 255, 255, .9)) drop-shadow(2px 2px 0 rgba(0, 0, 0, .08));
     transition: transform 0.15s ease;
@@ -67,25 +52,33 @@
 
 .VPNavBarTitle .title {
     margin-top: 20px;
-    margin-left: -20px;
+    margin-left: 15px;
+    max-width: 70px;
 }
 
-
-/* ========== MOE BANNER ========== */
-
-.moe-banner {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    width: 100% !important;
-    margin-top: 0px !important;
-    margin-bottom: 24px !important;
+@media (max-width: 768px) {
+    .VPNavBarTitle .title {
+        margin-top: -4px;
+        margin-left: -4px;
+        font-size: 0.9rem;
+        max-width: 50px;
+    }
 }
 
-.moe-banner img {
-    height: 40px;
-    width: auto;
-    border: 1px solid #e7d4dd;
-    background: #fffafc;
-    box-shadow: inset 0 0 0 1px #fff, 2px 2px 0 rgba(0, 0, 0, .06);
+/* ========== CURTAIN ========== */
+
+.curtain,
+.VPTheme .curtain {
+    background-color: var(--vp-c-bg-soft) !important;
+}
+
+@media (min-width: 769px) {
+
+    .curtain,
+    .VPTheme .curtain {
+        min-height: 110px !important;
+        height: 110px !important;
+        overflow: visible !important;
+        background-color: var(--vp-c-bg-soft) !important;
+    }
 }

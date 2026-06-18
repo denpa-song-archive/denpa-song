@@ -5,6 +5,7 @@ import Layout from './Layout.vue'
 import VideoLink from './components/VideoLink.vue'
 import FloatingPlayer from './components/FloatingPlayer.vue'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
+import Collapsible from './components/Collapsible.vue'
 
 if (typeof window !== 'undefined') {
   (function () {
@@ -30,6 +31,7 @@ export default {
   enhanceApp({ app }) {
     app.component('VideoLink', VideoLink)
     app.component('FloatingPlayer', FloatingPlayer)
+    app.component('Collapsible', Collapsible)
     enhanceAppWithTabs(app)
   },
 }
