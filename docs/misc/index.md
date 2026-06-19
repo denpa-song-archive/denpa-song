@@ -2,29 +2,14 @@
 
 <div class="introduction-card-grid">
 
-<a href="/misc/top" class="introduction-card">
-  <h3>Top Iconic Denpa Songs</h3>
-  <p>iconic denpa song</p>
-</a>
-
 <a href="/misc/pre" class="introduction-card">
   <h3>Pre 2000s Denpa Songs</h3>
   <p>songs released prior to 2000s</p>
 </a>
 
-<a href="/misc/games" class="introduction-card">
-  <h3>Video Games</h3>
-  <p>video games related to denpa song</p>
-</a>
-
-<a href="/misc/packs" class="introduction-card">
-  <h3>Sticker Packs</h3>
-  <p>stickers featuring denpa song related context</p>
-</a>
-
-<a href="/misc/iceberg" class="introduction-card">
-  <h3>Iceberg Chart</h3>
-  <p>denpa song iceberg chart by the community</p>
+<a href="/misc/banner" class="introduction-card">
+  <h3>Banner Gallery</h3>
+  <p>Banners extracted from artist websites</p>
 </a>
 
 <a href="/misc/culture" class="introduction-card">

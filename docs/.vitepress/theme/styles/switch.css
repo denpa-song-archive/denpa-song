@@ -65,10 +65,6 @@
     outline: 1px solid var(--vp-c-brand-1);
 }
 
-body:has(.VPHome) .VPNavBarAppearance {
-    display: none !important;
-}
-
 @media (max-width: 768px) {
     .VPSwitch {
         background-color: transparent !important;

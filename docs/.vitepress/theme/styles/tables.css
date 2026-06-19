@@ -16,7 +16,7 @@
 }
 
 .vp-doc table tr:nth-child(even) {
-    background: var(--vp-c-bg);
+    background: var(--vp-c-bg-soft);
 }
 
 .vp-doc table tr:nth-child(odd) {

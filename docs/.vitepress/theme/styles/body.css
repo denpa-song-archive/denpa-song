@@ -8,9 +8,10 @@ body,
 }
 
 body {
-    background: var(--vp-c-brand-2);
+    background: var(--vp-c-bg-soft);
 }
 
+/*
 :root:not(.dark) body.category-about {
     opacity: 1;
 }
@@ -52,6 +53,7 @@ body {
             color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent) 1px,
             transparent 1px, transparent 80px);
 }
+*/
 
 /* ========== BOTTOM RIGHT MASCOT ========== */
 
