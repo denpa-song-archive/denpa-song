@@ -75,6 +75,11 @@ const tables = {
             x: "https://x.com/kanematsu_yuka",
         },
         {
+            name: "Chu☆",
+            url: "https://inspion-agc.co.jp/ja/",
+            x: "https://x.com/sasa_kaorun"
+        },
+        {
             name: "UCO",
             url: "https://manu.heavy.jp/indexU2.html",
         },
@@ -85,9 +90,6 @@ const tables = {
         {
             name: "Kanae Matsumoto",
             x: "https://x.com/MatsumotoKanae",
-        },
-        {
-            name: "Chu☆",
         },
     ],
     post: [

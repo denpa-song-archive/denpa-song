@@ -3,7 +3,7 @@
 #### Vocalists
 
 - please note that vocalists are usually the frontmen/singers and in some cases might also take the role of the arranger or composer
-- some akiba-idols fall under this list and will likely see its separate table soon
+- please note that some of them go by their real name, especially talents who voiced for eroge soundtracks
 
 </Collapsible>
 
