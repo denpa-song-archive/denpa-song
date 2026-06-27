@@ -677,6 +677,33 @@
   </div>
 </div>
 
+<div class="term-card">
+  <span class="term-main">DAICON FILM</span>
+  <div class="term-details">
+    <span class="term-title">Daicon</span>
+    <span class="term-subtitle">The legendary anime that started it all</span>
+    <span class="term-description">A series of short fan-made animated films created for the Japanese SF (sci-fi) conventions "DAICON III" (1981) and "DAICON IV" (1983) in Osaka; the films were made by a group of amateur college students who later formed the legendary animation studio GAINAX, the creators of 'Neon Genesis Evangelion', 'Gunbuster' & 'FLCL'; core members included Hideaki Anno, Toshio Okada, Hiroyuki Yamaga, Yoshiyuki Sadamoto & Takami Akai; DAICON IV film is famous for the great amount of otaku references featuring over 100 characters from anime, manga & SF; the animation quality was mind-blowing & it became a legendary cult classic among early otaku, symbolically setting the stone for modern otaku culture; Densha Otoko (2005) references the DAICON IV anime & uses the same theme song</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">秋葉原物語</span>
+  <div class="term-details">
+    <span class="term-title">Akihabara Geeks</span>
+    <span class="term-subtitle">Akihabara Geeks</span>
+    <span class="term-description">A short NHK documentary from 2007 that followed five locals in Akihabara over the course of a single day in 2002; a rare, non-judgmental look at the neighborhood before the akihabara idol boom following AKB48's breakthrough; featuring a maid cafe waitress, a world-record computer overclocker, a parts shop owner, an indie game creator & a guy obsessed with cute anime girls</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">アキバちゃん</span>
+  <div class="term-details">
+    <span class="term-title">Akiba-chan</span>
+    <span class="term-subtitle">Akiba-chan</span>
+    <span class="term-description">A 10-episode japanese figure animation short series that aired in 2008 created by Yoji Kuri; the protagonist is  "Akiba-chan", a figurine who comes to life and lives in a shared house called "Maison de Akiba" with other girls obsessed with otaku culture; a lighthearted, self-aware parody of Akihabara's subcultures filled with references to otaku culture</span>
+  </div>
+</div>
+
 </div>
 
 == Internet Culture

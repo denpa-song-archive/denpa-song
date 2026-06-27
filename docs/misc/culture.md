@@ -1,3 +1,5 @@
+#### Literature
+
 | Publish Date | Author | Title | Link |
 |--------------|--------|-------|------|
 | 1998 | Sharon Kinsella | AMATEUR MANGA SUBCULTURE AND THE OTAKU PANIC | [View](https://www.kinsellaresearch.com/nerd.html) |
@@ -21,10 +23,21 @@
 | June 22, 2022 | Taruby | [Lolicon History] Fusion Product Lolita/Bishoujo Special Edition [Translation] | [View](https://varishangout.com/index.php?threads/lolicon-history-fusion-product-lolita-bishoujo-special-edition-translation.1003/) |
 | October 21, 2022 | 白根こま | ケモ耳文化研究概論 (An Introduction to the Study of Kemonomimi Culture) | [View](https://www.amazon.co.jp/gp/product/4881818872/) |
 | May 15, 2024 | Jeremy Tauber | Evangelion, alienation, and Japan’s 1990s economic crisis | [View](https://www.animefeminist.com/evangelion-alienation-and-japans-1990s-economic-crisis/) |
+| May 8, 2025 | @kydb | "You Damn Lolicons!" | [View](https://youtu.be/iInOmCAp-TI?si=-YxU6vBpbGC2pNpo) |
 | April 17, 2025 | - | Home of everything Ukagaka !! | [View](https://sakuraghosttown.tumblr.com/about) |
 | 2025 | Gabber Eleganza | Manga Corps - An archive of Japanese rave artifacts (3rd Edition) | [View](https://neversleep.life/products/manga-corps-an-archive-of-japanese-rave-artifacts-3rd-edition) |
+| June 14, 2026 | @kydb | The 2002 KFC Anime Girl | [View](https://youtu.be/JQVgpHLnehE?si=NizbOmebjBAACqAG) |
 | - | [...] | Visual Novel Genres | [View](https://vndev.wiki/Genre) |
 | - | mirai_yamada_62031 | History of Lolicon | [View](https://loli.aishitei.ru/history.html) |
 | - | ChosenX_ | Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1) | [View](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
 | - | - | 2 Channel — English Navigator ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━!!!!! | [View](https://services.4-ch.net/2chportal/) |
 | - | Parzival | Honda Toru: The Otaku Critique | [View](https://www.scribd.com/document/856526091/Love-is-Dead) |
+
+#### Tools
+
+| Description | Author | Title | Link |
+|--------------|--------|-------|------|
+| Library | - | LibGen | [View](https://libgen.com.im/) |
+| Library | - | [SCRIBD] | [View](https://www.scribd.com/) |
+| Chinese Touhou Wiki | - | THBWiki | [View](https://thwiki.cc/%E9%A6%96%E9%A1%B5) |
+| Otaku Web Banners | - | Y2Kawaii Web | [View](https://wwdayo.wixsite.com/y2kawaii-web/200x40) |

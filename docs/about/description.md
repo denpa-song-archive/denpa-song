@@ -69,6 +69,7 @@ please remember the folloqing quote:
 - rise of japanese BBS (bulletin board system) in the early 1980s
 - PC-8800 series ("Lolita: Yakyuuken", "100円ディスク", ..)
 - Fujitsu FM-7
+- the opening animation to Daicon III was released in 1981
 - amassing a large enough quantity of software provided a hedge against risk through economies of scale
   - selling hardware while simultaneously purchasing used software from enthusiasts and reselling it under their own store brands
   - rise to the business model characteristic of early computer shops
@@ -78,6 +79,8 @@ please remember the folloqing quote:
 - Fukagawa Street Murders (深川通り魔殺人事件) had occured
 - Musical Instrument Digital Interface (MIDI) protocol introduced in 1983
 - Otaku was coined during bishoujo magazine Manga Burikko in 1983 by Akio Nakamori
+- the opening animation to Daicon IV was released in 1983
+- Comitia was founded in 1984
 - cosplays became widespread in the 1980s and onwards
 - idols (like Lemon Angel, formed 1987) provided music for Cream Lemon & OVA adaptations of bishoujo manga like Outlanders (1986)
 - three of the biggest and most costly animated movies arrived toward the end of the 1980s: 'Wings of Honneamise' by Gainax in 1987, 'My Neighbor Totoro' by Hayao Miyazaki & 'Akira' by Otomo Katsuhiro; this would also mark a period where the anime market would implode and go into recession; studios turned towards the production of computer games, figures & idol singers
@@ -98,6 +101,7 @@ please remember the folloqing quote:
   - therefore mainstream culture would fade away from this town and otaku-loathing women would gradually shift away too; families would stop coming; specialists & hobbyists remained; usually young males interested in computers, anime & games
 - Moore's Law started showing its true colors in the early 1990s; key ingredients for the eroge/visual-novel boom established
 - katakana otaku (オタク) emerged roughly after tsutumo miyazaki incident that replaced the hiragana otaku (おたく)
+- anime figurines began to take off in the 90s though anime-related figures such as garage kits in the 80s and shokugan in the 60s existed prior to bishoujo figurines
 - during 1991 police arrested the managers of five specialist manga book shops where unpublished or amateur manga was available for sale
   - amateur manga artists were subjected to repeated investigations and harassment throughout the rest of the year
 - AnimeCon '91 is the first anime event to break the 1000-person mark in the US, marking the beginnings of mass otaku & convention culture in the US; this convention was the predecessor to the famous 'Anime Expo'

@@ -1,4 +1,8 @@
+<Collapsible title="Lookup resources">
+
 - A collection of all banners from circles, units, vocalists, and composers who have them
+
+</Collapsible>
 
 <div class="directory-table-wrapper">
 

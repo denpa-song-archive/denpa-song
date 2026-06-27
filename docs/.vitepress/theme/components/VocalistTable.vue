@@ -47,7 +47,7 @@ const tables = {
             youtubemusic: "https://www.youtube.com/channel/UCTlvAcXEySYrMmr2PTX3vYw"
         },
         {
-            name: "Nomico",
+            name: "nomico",
             url: "https://ameblo.jp/nomico-honey/",
             youtubemusic: "https://www.youtube.com/channel/UCvZKRyvOGkZyC70ED_CNpBQ",
             x: "https://x.com/nomico_honey"

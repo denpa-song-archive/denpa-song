@@ -1,3 +1,12 @@
+<Collapsible title="Lookup resources">
+
+- https://covers.musichoarders.xyz/
+
+</Collapsible>
+
+
+
+
 # case 1: internet & technology
 
 <div class="album-grid">
