@@ -39,6 +39,10 @@ export default defineConfig({
       level: [1, 3],
       label: 'ｷﾀ━━(ﾟ∀ﾟ)━━!!!!.'
     },
+    docFooter: {
+      prev: false,
+      next: false
+    },
     search: {
       provider: 'local',
       options: {

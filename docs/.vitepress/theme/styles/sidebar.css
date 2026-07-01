@@ -78,7 +78,7 @@
 
 .VPDocAsideOutline .content {
     border-left: 0px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
-    margin-top: -53px !important;
+
 }
 
 .outline-link {
