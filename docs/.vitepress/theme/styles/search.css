@@ -11,9 +11,12 @@
 .DocSearch-Button {
     border-radius: 0px !important;
     background-color: transparent !important;
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
     transition: all 0.1s ease !important;
+    /*
+    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+    */
 }
+
 
 .DocSearch-Search-Icon {
     color: var(--vp-c-text-1);

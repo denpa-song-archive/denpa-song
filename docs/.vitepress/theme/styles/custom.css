@@ -185,7 +185,7 @@
 .album-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    gap: 1.5rem;
+    gap: 1rem;
     margin: 1.5rem 0;
     width: 100%;
     max-width: 100%;
@@ -303,12 +303,18 @@
 }
 */
 
-.denpa-home-title {
-    text-align: center;
-    letter-spacing: 0.2em;
-    margin: 1rem auto 2rem auto;
-    color: var(--vp-c-brand-1);
-    font-size: 2.2rem;
+.home-icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-icon {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    display: block;
+    outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
 }
 
 .denpa-quote {

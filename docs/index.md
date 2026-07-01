@@ -4,7 +4,9 @@ title: "Denpa Song Archive"
 description: "Denpa Song Archive to please the heart of otaku!"
 ---
 
-<h1 class="denpa-home-title">denpa song</h1>
+<div class="home-icon-container">
+  <img src="/assets/misc/icon.png" alt="Denpa Song" class="home-icon" />
+</div>
 
 <div class="introduction-card-grid">
 
@@ -13,7 +15,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
     <span class="i-lucide:badge-info"></span>
     <h3>About</h3>
   </div>
-  <p>What is denpa? Glossary, etymology, and cultural context</p>
+  <p>What is denpa song ?</p>
 </a>
 
 <a href="/reference/" class="introduction-card">
@@ -21,7 +23,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
     <span class="i-lucide:book-open"></span>
     <h3>Reference</h3>
   </div>
-  <p>Blogposts, guides, libraries, and more</p>
+  <p>Where is documentation ?</p>
 </a>
 
 <a href="/media/" class="introduction-card">
@@ -29,7 +31,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
     <span class="i-lucide:headphones"></span>
     <h3>Media</h3>
   </div>
-  <p>Streaming, downloads, and more</p>
+  <p>Where & what to stream ?</p>
 </a>
 
 <a href="/bodies/" class="introduction-card">
@@ -37,7 +39,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
     <span class="i-lucide:user"></span>
     <h3>Bodies</h3>
   </div>
-  <p>Artists, collaborators, circles, units and more</p>
+  <p>Who is part of subculture ?</p>
 </a>
 
 <a href="/misc/" class="introduction-card">
@@ -45,7 +47,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
     <span class="i-lucide:beer"></span>
     <h3>Misc</h3>
   </div>
-  <p>Aesthettic analysis, culture reading, communities, and more</p>
+  <p>What else is related ?</p>
 </a>
 
 </div>

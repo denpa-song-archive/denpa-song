@@ -26,11 +26,12 @@ please remember the folloqing quote:
 ---
 
 1960s:
-- 1960s marked protests by university students and lower-class migrant workers in urban areas against Vietnam War and American imperialism (youth radicalism)
+- 1960s (and the 70s) marked protests by university students and lower-class migrant workers in urban areas against Vietnam War and American imperialism (youth radicalism)
 - the meeting "Animation Association of Three" (アニメーション三人の会) was founded by manga artist and filmmaker Kuri Youji alongside Yanagihara Ryouhei & Manabe Hiroshi; paving the way for japanese animation to come in the 70s
-- 1960s marked the introduction of the mahou shoujo trope through the manga 'The Secret of Akko-chan' written & illustrated by Fujio Akatsuka in July 1962 alongside 'Sally the Witch' written and illustrated by Mitsuteru Yokoyama in July 1966
-- university campus riots of 1968 to 1970
 - initial television anime boom in the 1960s
+- 1960s marked the introduction of the mahou shoujo trope through the manga 'The Secret of Akko-chan' written & illustrated by Fujio Akatsuka in July 1962 alongside 'Sally the Witch' written and illustrated by Mitsuteru Yokoyama in July 1966
+- 'Gekkanmanga Garo' was founded in 1964; a premiere magazine for avant-garde manga; it acted as an outlet for social concern and criticism; anti-establishment themes at the height of antiwar & anti-capitalist protests/demonstration by college students
+- university campus riots of 1968 to 1970
 
 ---
 
@@ -40,6 +41,7 @@ please remember the folloqing quote:
 - growth of the commercial manga industry slowly in the 1970s, and then rapidly during the 1980s
 - microcomputer boom had already established itself in the 70s
 - mass consumerism of 1970s including televised song contests gave spotlight to idol culture and thus the idol boom
+- radicals would shift towards manga and anime as a form of self-expression after the student movements had failed
 - large publishing companies ceased to systematically produce radical and stylistically innovatory manga series around 1972 because they no longer matched sufficiently closely the changed interests of their mass audiences
 - Space Battleship Yamato started airing in 1974; this marks a period where sci-fi, the space race & technological innovation were thriving
 - the 'Japanese Manga Convention' (日本漫画大会) was first held on 1972 however tensions  arose in 1974 during its third iteration after it received criticism regarding the guidelines & management of the convention and it would eventually fade away in 1981 at its 10th and last iteration; the famous Comiket was formed in response to these tensions
@@ -55,6 +57,8 @@ please remember the folloqing quote:
   - Rumiko Takahashi's professional career began with Urusei Yatsura in 1978
   - Mobile Suit Gundam began airing in 1979, marking the birth of the gundam mecha series
 - birth rates continued to decline
+- Azuma Hideo created the doujinshi manga 'Cybele' in 1979
+- 'Lupin III: The Castle of Cagliostro' was released in 1979 by Hayao Miyazaki
 
 ---
 
@@ -70,6 +74,7 @@ please remember the folloqing quote:
 - PC-8800 series ("Lolita: Yakyuuken", "100円ディスク", ..)
 - Fujitsu FM-7
 - the opening animation to Daicon III was released in 1981
+- the magazine 'Lemon People' begun in 1981 carrying lolicon images
 - amassing a large enough quantity of software provided a hedge against risk through economies of scale
   - selling hardware while simultaneously purchasing used software from enthusiasts and reselling it under their own store brands
   - rise to the business model characteristic of early computer shops
@@ -78,7 +83,7 @@ please remember the folloqing quote:
 (- Creamy Mami, the Magic Angel (anime series, 1983))
 - Fukagawa Street Murders (深川通り魔殺人事件) had occured
 - Musical Instrument Digital Interface (MIDI) protocol introduced in 1983
-- Otaku was coined during bishoujo magazine Manga Burikko in 1983 by Akio Nakamori
+- slang 'Otaku' was coined during bishoujo magazine Manga Burikko in 1983 by Akio Nakamori
 - the opening animation to Daicon IV was released in 1983
 - Comitia was founded in 1984
 - cosplays became widespread in the 1980s and onwards
@@ -124,7 +129,7 @@ please remember the folloqing quote:
   - starting the real akiba transformation, causing shops selling figurines and doujinshi to boom
   - evangelion eventually ran out of funds towards the end of the 26-episode run, with the last two episodes being filled by "The End of Evangelion" with the last two episodes serving as an alternate ending
 - anime became increasingly popular overseas in the mid-late 90s, eventually leading to the government taking notice & rolling out the 'Cool Japan' initiative in the upcoming decade
-- Haruko Momoi, one of the earliest akiba-idols, recorded the song 'GURA GURA' in the center of akihabara in 1997
+- Haruko Momoi, one of the earliest akiba-idols, debuted with her song 'GURA GURA', recorded in the center of akihabara in 1997
 - figure maker Kaiyodo moved from Shibuya to Akihabara, and other otaku-oriented stores followed
 - Beatmania released in December 1997, sparking the boom of music games in 1998
 - Dance Dance Revolution released in in 1998, finding huge success outside of japan as well
@@ -132,33 +137,54 @@ please remember the folloqing quote:
   - introducing bishoujo games
 - a bombing incident occured at Comiket 54 in 1998 in response to the hatred for otaku
 - mega-BBS 2channel (2ch) launched 30 May 1999
-
+- Japan Expo first took place in Paris, France in 1999
+- in 1999, Japan ruled out the "Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children" which was Japan's first dedicated child pornography law which criminalized the production, distribution, prostitution, sale, import & export of child pornography. the possession was also criminalized BUT only if it were for the purpose of distribution; simple possession for one's own consumption (personal use) was not yet illegal
+  - prior to this new law, there was no dedicated child pornography law and japan primarily relied on Article 175 of the Japanese Penal Code which was also known as the obscenity law or more specifically 'Waisetsu Butsu Hanpu To' where obscenity translates to 'waisetsu'
+  - under this new law, lolicon remained legal as this act was to target material involving real child victims
 ---
 
 2000s:
-- early 2000s saw the rise of maid cafés across akihabara and elsewhere
+- early 2000s saw the rise of maid cafés across akihabara and elsewhere as the maid boom was in full swing
 - OS-tan as a branch of moe anthropomorphism in the 2000s to accommodate depiction operating systems as moe characters
 - Ukagaka emerged alongside OS-tan
 - "Otaku: Japan's Database Animals" published in 2001
 - StepMania was initially released in 2001 as an open source clone of Dance Dance Revolution
 - Guidebook of funny dempa song released in the jp community in 2003, making denpa song relevant across jp & western BBSes including 2ch, world2ch, 4-ch and more
-- vocaloid was released in January 15, 2004
+- the "Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children" law was amended (modified) and thus saw partial revision in 2004
+  - expanding the range of child pornography related acts such as child prostitution, retaining electromagnetic records and other methods (CDs, DVDs, computer files, hard drives, other digital storage media); prior to this revision it had mostly included media like photographs & videotapes
+  - the previous offenses were broadened to strenghten the prosecutors' ability to pursue those involved in the production and thus was aimed at suppliers and traffickers
+  - the act was renamed to "Partially Revised Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children"
+  - lolicon continues to remain legal
+- Vocaloid was released in January 15, 2004
 - Densha Otoko published October 22, 2004, alongside its TV drama in 2005
 - lolicore emerged in the mid 2000s which is more or less the western equivalent & extension of nerdcore techno that incorporates western bulletin board culture, moe/lolicon imagery, weeaboo culture mimicking otaku influence overseas & offensive language intended to gatekeep itself
 - Denpa Otoko (電波男) (in responde to Densha Otoko) published in May 2005
+- itasha boom occured in the 2000s, with the earliest known report of an itasha-decorated car being displayed in Comiket 68
+  - itansha, itachari & itabags soon followed up
+- Sakuragawa Himeko made her debut as an akiba-idol in August 2005 in a nekomimi maid outfit
 - it is said that Akihabara truly peaked in the mid 2000s
 - nico nico douga was founded in 2006
 - osu! was released on September 2007
+- the International Manga Award (Kokusaimangashou) was established in 2007 by special order of the Minister of Foreign Affairs Aso Taro to push the image of 'Cool Japan'
 - Anime Festival Asia first emerged in 2008, bringing southeast asia together to celebrate japanese pop culture in singapore; it has been a regular fixture ever since
 - utaite have gradually popped up in the late 2000s in relation to nico nico douga
 - Akihabara incident in June 8, 2008 which was caused by Kato Tomohiro who rented a truck and drove into & stabbed a crowd of visitors walking on Chuo-dori street in Akihabara
   - resulting in Chuo-dori being opened to traffic on sundays which would kill public activity as the spot served as a gathering for otaku
   - since this event, people would be arrested for posting threatening notices on BBS sites such as 2ch
     - a similar threat, moreso a bomb threat, was announced on 2ch for the summer Comiket in 2008 though the culprit was arrested upon entry
+- Dokomi took place for the first time in 2009, initially with ~1800 visitors; at the time, Japan Expo in France was still the largest event devoted to anime, manga & otaku culture in europe (just for comparison; in 2026, dokomi has reached ~230000 visitors and has topped off Japan Expo around post-covid)
 ---
 
 2010s:
 - 'Cool Japan' initiative was launched in the 2010s to turn the spot into a tourist destination for pop culture but the initiative was proposed at least a decade prior
 - the ASMR format gradually emerged in the 2010s and is also found among the otaku/vtuber community prior to the establishment of the vtuber industry 
 - Gamergate occured in 2014 and shaped the landscape of social media & culture across the internet
+- in 2014, the "Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children" saw yet another revision but this time it was a major one
+  - simple "voluntary possession" combined with the "purpose of satisfying one's own sexual curiosity" now became illegal 
+  - the maximum penalty is up to one year imprisonment or a fine of up to one million yen
+  - the previous "a pose of a child that arouses sexual desire" category has been revised to narrow down and clarify the sexual body parts:
+     - genital organs, surrounding areas, buttocks or breasts to be exhibited or emphasized in a sexually arousing manner
+  - production of child pornography by secretly photographing or recording a child without their knowledge was also criminalized
+  - it was renamed to "Act on Regulation and Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children"
+  - lolicon continues to remain legal
 - mid-late 2010s introduces virtual youtubers and therefore gives passage to youtube outpacing nico nico douga and the new 'vtuber agency' model emerges

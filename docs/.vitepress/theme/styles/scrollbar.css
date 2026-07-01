@@ -1,6 +1,9 @@
-/* ========== SCROLLBAR ========== */
+/* ========== DISABLE SCROLLBAR FOR LEFT SIDEBAR ========== */
 
-* {
-    scrollbar-width: thin;
-    scrollbar-color: color-mix(in srgb, var(--vp-c-divider) 30%, transparent) var(--vp-c-bg-soft);
+.VPSidebar {
+    scrollbar-width: none !important;
+}
+
+*:not(.VPSidebar) {
+    scrollbar-color: color-mix(in srgb, var(--vp-c-divider) 100%, transparent) var(--vp-c-bg-soft);
 }

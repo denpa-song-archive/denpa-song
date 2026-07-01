@@ -34,7 +34,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: '/assets/misc/icon2.png',
+    logo: '/assets/misc/icon.png',
     outline: {
       level: [1, 3],
       label: 'ｷﾀ━━(ﾟ∀ﾟ)━━!!!!.'

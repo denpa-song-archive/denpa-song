@@ -1,9 +1,8 @@
 :root {
-    --vp-sidebar-width: 280px;
-    --vp-layout-max-width: 1490px;
+    --vp-layout-max-width: 1180px;
 
+    --vp-c-brand-1: #dd769f;
     /* pink mode
-    --vp-c-brand-1: #f5a8c7;
     --vp-c-brand-2: #fff7fa;
     --vp-c-bg: #fff5fa9a;
     --vp-c-bg-soft: #fffdfd;
@@ -35,10 +34,4 @@
     --vp-c-text-2: #ffffff;
     --vp-c-divider: #ffffff;
     --vp-code-block-bg: var(--vp-c-bg);
-}
-
-@media (min-width: 1440px) {
-    :root {
-        --vp-layout-max-width: 100% !important;
-    }
 }

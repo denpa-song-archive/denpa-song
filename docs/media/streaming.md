@@ -119,6 +119,7 @@
 | - | @DeltaEpsilon7787 | Denpa Cult: Denparty 6 | 1,659 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UUZut8g5hlg7roIgJ80olxY) |
 | - | @DeltaEpsilon7787 | Denpa Cult: the Denparty | 3,992 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UWc0erHv9Lnkfw6J5BlOFYT) |
 | - | @DeltaEpsilon7787 | [Broken Playlist] Denparty | 3,370 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UW3V5Xysnxn9s9yITECJWhc) |
+| - | @kirakiratenshi | ゆんゆん電波シンドローム | 95 | [Watch](https://www.youtube.com/playlist?list=PLN2ROO0V0tR1BEHej17idePELgIFxGhXA) |
 
 #### Artist specific
 

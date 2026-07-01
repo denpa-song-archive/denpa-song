@@ -4,7 +4,7 @@ html,
 body,
 * {
     font-family: 'MS Gothic', 'Courier New', monospace !important;
-    /* line-height: 20px; */
+    line-height: 20px;
 }
 
 body {

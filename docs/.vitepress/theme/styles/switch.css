@@ -3,7 +3,9 @@
 .VPSwitch {
     border-radius: 0px !important;
     background-color: transparent !important;
+    /*
     box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
+    */
     padding: 6px 12px !important;
     display: flex !important;
     align-items: center !important;
