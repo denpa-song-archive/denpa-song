@@ -47,7 +47,7 @@ please remember the folloqing quote:
 - the 'Japanese Manga Convention' (日本漫画大会) was first held on 1972 however tensions  arose in 1974 during its third iteration after it received criticism regarding the guidelines & management of the convention and it would eventually fade away in 1981 at its 10th and last iteration; the famous Comiket was formed in response to these tensions
 - 1975 marked the establishment of the 'Manga Research Club' (漫画研究会) in numerous universities
   - this marked a shift where otaku began to prioritize introspection and self-discovery over political engagement; an antithesis to the political activism
-- in the mid 1970s a group of female artists producing high quality manga emerged called the '1949 Group' or also the 'Year 24 Group' ('nijuyon-nen gumi' / '24年組')
+- in the mid 1970s a group of female shoujo manga artists producing high quality manga emerged called the 'The Magnificent 49ers' or also '1949 Group' or 'Year 24 Group' ('nijuyon-nen gumi' / '24年組')
   - contributed heavily to the development of shoujo manga
 - a group of young manga critics (Aniwa Jun, Harada Teruo and Yonezawa Yoshihiro) founded Comic Market (Comiket) in late 1975, giving birth to doujin culture; significant rise in the 1980s; early on it was largely dominated by women
   - first instance held 32 amateur manga circles and 600 individuals
@@ -83,7 +83,7 @@ please remember the folloqing quote:
 (- Creamy Mami, the Magic Angel (anime series, 1983))
 - Fukagawa Street Murders (深川通り魔殺人事件) had occured
 - Musical Instrument Digital Interface (MIDI) protocol introduced in 1983
-- slang 'Otaku' was coined during bishoujo magazine Manga Burikko in 1983 by Akio Nakamori
+- slang 'Otaku' was spotted (though not coined) in "『おたく』の研究" (Otaku Research) in the pages of the bishoujo magazine Manga Burikko in 1983 by Akio Nakamori and thus set the naming convention; prior to that, the social demographic would refer to this folk as mania ("maniacs"), otaku-zoku, nekura-zoku ("the gloomy tribe") & even byōki (a play on the word "sick")
 - the opening animation to Daicon IV was released in 1983
 - Comitia was founded in 1984
 - cosplays became widespread in the 1980s and onwards
@@ -94,6 +94,7 @@ please remember the folloqing quote:
   - could not contain both graphic data and recorded sound due to storage limitations
 - Tsutomu Miyazaki incident had occured, causing a huge moral panic
   - marking the katakana otaku from here on out
+- おたくの本 (Otaku no Hon) released in 1989, a bestselling book edited by Tomohiro Machiyama
 - until the late 1980s, approximately 80% of dojinshi artists attending Comic Market were female
   - universities began to boast not only manga clubs, but also, girls' manga clubs for men
 - Osamu Tezuka passed away in 1989
@@ -129,6 +130,7 @@ please remember the folloqing quote:
   - starting the real akiba transformation, causing shops selling figurines and doujinshi to boom
   - evangelion eventually ran out of funds towards the end of the 26-episode run, with the last two episodes being filled by "The End of Evangelion" with the last two episodes serving as an alternate ending
 - anime became increasingly popular overseas in the mid-late 90s, eventually leading to the government taking notice & rolling out the 'Cool Japan' initiative in the upcoming decade
+- the 'Sakakibara' incident had occured in 1997, caused by a juvenile murderer whose name cannot be released but is often called "Shonen A."; he murdered a ten year old girl & beheaded an eleven year old boy, leaving the mutilated head in front of his school; the press called him a hikikomori; parallels were made to other "otaku" criminals such as miyazaki tsutomu and aum shinrikyo once they discovred ero-manga, anime & pornography in his room
 - Haruko Momoi, one of the earliest akiba-idols, debuted with her song 'GURA GURA', recorded in the center of akihabara in 1997
 - figure maker Kaiyodo moved from Shibuya to Akihabara, and other otaku-oriented stores followed
 - Beatmania released in December 1997, sparking the boom of music games in 1998
@@ -159,6 +161,7 @@ please remember the folloqing quote:
 - Densha Otoko published October 22, 2004, alongside its TV drama in 2005
 - lolicore emerged in the mid 2000s which is more or less the western equivalent & extension of nerdcore techno that incorporates western bulletin board culture, moe/lolicon imagery, weeaboo culture mimicking otaku influence overseas & offensive language intended to gatekeep itself
 - Denpa Otoko (電波男) (in responde to Densha Otoko) published in May 2005
+- A study by Nomura Research Institute in 2005 evaluated and estimated that the otaku market in japan at the time was worth 411 billion yen annually, with an estimated 1.72 million otaku involved
 - itasha boom occured in the 2000s, with the earliest known report of an itasha-decorated car being displayed in Comiket 68
   - itansha, itachari & itabags soon followed up
 - Sakuragawa Himeko made her debut as an akiba-idol in August 2005 in a nekomimi maid outfit
@@ -172,6 +175,7 @@ please remember the folloqing quote:
   - resulting in Chuo-dori being opened to traffic on sundays which would kill public activity as the spot served as a gathering for otaku
   - since this event, people would be arrested for posting threatening notices on BBS sites such as 2ch
     - a similar threat, moreso a bomb threat, was announced on 2ch for the summer Comiket in 2008 though the culprit was arrested upon entry
+- オタクはすでに死んでいる (Otaku wa sudeni shindeiru) released in 2008 by Toshio Okada & it roughly translates to 'You Otaku Are Already Dead'; a manifesto examining the development of otaku & criticizing the modern otaku at that
 - Dokomi took place for the first time in 2009, initially with ~1800 visitors; at the time, Japan Expo in France was still the largest event devoted to anime, manga & otaku culture in europe (just for comparison; in 2026, dokomi has reached ~230000 visitors and has topped off Japan Expo around post-covid)
 ---
 

@@ -314,6 +314,7 @@
     height: 120px;
     object-fit: contain;
     display: block;
+    outline: 2px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
 }
 
 .denpa-quote {

@@ -297,6 +297,15 @@
 </div>
 
 <div class="term-card">
+  <span class="term-main">ヲタ(ク)</span>
+  <div class="term-details">
+    <span class="term-title">Wota(ku)</span>
+    <span class="term-subtitle">Idol fan</span>
+    <span class="term-description">A shorthand spelling of "(W)otaku" that became popular among idol fans & the modern generation of otaku; wota are known for their intense dedication: following idols to live shows, waving colored glowsticks in perfect sync, buying multiple copies of singles to get handshake tickets, and doing synchronized chants (called "wotagei" or otaku dance)</span>
+  </div>
+</div>
+
+<div class="term-card">
   <span class="term-main">二次元コンプレックス</span>
   <div class="term-details">
     <span class="term-title">Nijikon</span>
@@ -365,15 +374,6 @@
     <span class="term-title">Kuuru Japan</span>
     <span class="term-subtitle">Cool Japan</span>
     <span class="term-description">A Japanese government initiative launched in the 2000s during the economic downturn "lost decades" to promote the country's pop culture exports globally in response to the young people it attracted from all around the world; the term was popularized by a 2002 academic paper by Douglas McGray "Japan's Gross National Cool"; in 2006, the Ministry of Land, Infrastructure, Transport and Tourism proposed the future vision "AKIHABARA" which is based on the motto of "Cool Japan" in order to create a public image of Akihabara as a pop culture & tourist destination; according to the Foreign Minister Taro Aso at the time in 2006, "Pop culture such as anime will become a new cultural diplomacy."; it is the antithesis of otaku culture and its origins which opposes censorship & values authenticity through means of embodying the hobby via moe & bishoujo that were never meant to conform to the mainstream as it is a niche of its own and through media sensationalization it is typically perceived as weird and offensive or in essence "Weird Japan"</span>
-  </div>
-</div>
-
-<div class="term-card">
-  <span class="term-main">ヲタ</span>
-  <div class="term-details">
-    <span class="term-title">Wota</span>
-    <span class="term-subtitle">Idol fan</span>
-    <span class="term-description">A shorthand spelling of "otaku" that became popular for idol fans; wota are known for their intense dedication: following idols to live shows, waving colored glowsticks in perfect sync, buying multiple copies of singles to get handshake tickets, and doing synchronized chants (called "wotagei" or otaku dance)</span>
   </div>
 </div>
 
@@ -672,7 +672,7 @@
   <span class="term-main">おたくのビデオ</span>
   <div class="term-details">
     <span class="term-title">Otaku no Bideo</span>
-    <span class="term-subtitle">Otaku's Video</span>
+    <span class="term-subtitle">The Video of Otaku</span>
     <span class="term-description">A 1991 mockumentary/anime OVA by Gainax that mixes fiction and documentary to portray the rise of otaku culture and its diversity; portrayal in a humourous and self-mocking way but with a healthy dose of pride as well</span>
   </div>
 </div>
@@ -703,6 +703,35 @@
     <span class="term-description">A 10-episode japanese figure animation short series that aired in 2008 created by Yoji Kuri; the protagonist is  "Akiba-chan", a figurine who comes to life and lives in a shared house called "Maison de Akiba" with other girls obsessed with otaku culture; a lighthearted, self-aware parody of Akihabara's subcultures filled with references to otaku culture</span>
   </div>
 </div>
+
+<div class="term-card">
+  <span class="term-main">おたくの本</span>
+  <div class="term-details">
+    <span class="term-title">Otaku no Hon</span>
+    <span class="term-subtitle">The Book of Otaku</span>
+    <span class="term-description">A 1989 book about people deeply into anime, dojinshi, bishojo figures, yaoi, computers, video games, pro-wrestling & idols; written by Tomohiro Machiyama; it further helped to introduce the word "otaku" to the japanese public; it released in the same year Tsutomu Miyazaki was arrested & framed as an otaku serial killer</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">『おたく』の研究</span>
+  <div class="term-details">
+    <span class="term-title">Otaku no Kenkyuu</span>
+    <span class="term-subtitle">The Research of Otaku</span>
+    <span class="term-description">A short-lived column by writer Akio Nakamori in the lolicon manga magazine Manga Burikko running from 1982 to 1985; it is famous for being the first time the word "otaku" was used in print to describe the otaku crowd</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">オタクはすでに死んでいる</span>
+  <div class="term-details">
+    <span class="term-title">Otaku wa sudeni shindeiru</span>
+    <span class="term-subtitle">Otaku Are Already Dead</span>
+    <span class="term-description">A 2008 book by Toshio Okada that declares the original otaku culture dead and gone; Okada divides otaku history into three generations: (1) "otaku aristocrats" from the late 70s/early 80s who proselytized their lifestyle and adapted early; (2) "otaku elite" from the late 80s through the 90s who scorned outsiders & recruited the like-minded; (3) "moé-otaku" of the 2000s who are passive isolated burned out weak consumers obsessed with cute characters instead of ideas; Okada basically argues that the original otaku were "individuals who chose to pursue childish hobbies as a way to intellectually and emotionally isolate themselves from society" which marks a rebellion against social pressure whereas modern otaku are just consumers who retreat into virtual worlds, lacking passion or community spirit; this image is specifically describing the 2000s but can also be reflected in the following decades where database consumption & aesthetics become the foundation of western fandoms who barely immerse with the material and have little to no understanding of the core materials of otaku (sub-)culture and its historical relevance; the book caused debate as younger fans accused okada of nostalgia and not understanding how early otaku saw themselves vs what the culture became</span>
+  </div>
+</div>
+
+
 
 </div>
 
@@ -905,6 +934,15 @@
     <span class="term-title">Manga no Kamisama</span>
     <span class="term-subtitle">God of Manga</span>
     <span class="term-description">A honorary title most commonly associated with Osamu Tezuka, recognizing his transformative influence on modern manga; term reflects the immense cultural impact he had on postwar japanese comics and animation</span>
+  </div>
+</div>
+
+<div class="term-card">
+  <span class="term-main">24年組</span>
+  <div class="term-details">
+    <span class="term-title">Nijyuuyonnen gumi</span>
+    <span class="term-subtitle">The Magnificent 49ers</span>
+    <span class="term-description">A collective name for the innovative shoujo manga artists born around 1949 & first used in manga criticism in the early 1970s; these women are considered the pioneers of shoujo manga; from this group, Hagio Moto is considered a very influencial mangaka alongside Takemiya Keiko & Oshima Yumiko</span>
   </div>
 </div>
 
