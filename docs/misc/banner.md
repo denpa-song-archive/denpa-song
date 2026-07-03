@@ -74,5 +74,6 @@
 | Name | Banner |
 |------|--------|
 | [Denpa Song Archive](https://github.com/denpa-song-archive/denpa-song) | ![](/assets/banners/banner.png) |
-
+| [Denpa No Sekai](https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/) | ![](/assets/banners/denpanosekai.jpg) |
+| [akibablog](https://akibablog.blog.jp/) | ![](/assets/banners/akibablog.webp) |
 </div>

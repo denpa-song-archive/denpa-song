@@ -10,7 +10,7 @@
     box-shadow: none !important;
 }
 
-/* ========== NAVBAR ========== */
+/* ========== NAVBAR CONTENT BODY ========== */
 
 .VPNavBar .content-body {
     background-color: transparent !important;
@@ -19,6 +19,15 @@
     border-bottom: none !important;
     gap: 0px !important;
 }
+
+.VPNavBar .content-body>.VPNavBarSearch,
+.VPNavBar .content-body>.VPNavBarAppearance,
+.VPNavBar .content-body>.VPNavBarExtra,
+.MascotButton {
+    transform: translateX(20px);
+}
+
+/* ========== NAVBAR DIVIDER ========== */
 
 .VPNavBar .divider {
     display: none !important;

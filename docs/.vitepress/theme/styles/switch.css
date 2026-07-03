@@ -32,6 +32,7 @@
     background: transparent !important;
     border: 1px solid var(--vp-c-divider);
     transition: border-color 0.15s ease;
+    box-shadow: none !important;
 }
 
 .VPSwitch .icon svg {

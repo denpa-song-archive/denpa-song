@@ -1,4 +1,4 @@
-# About
+### About
 
 <div class="introduction-card-grid">
 

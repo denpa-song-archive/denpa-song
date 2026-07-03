@@ -15,6 +15,14 @@
       </button>
     </template>
 
+    <template #aside-top>
+      <div class="CustomSidebar">
+        <a v-for="b in banners" :key="b.img" :href="b.link" target="_blank" rel="noopener noreferrer">
+          <img :src="b.img" />
+        </a>
+      </div>
+    </template>
+
   </Layout>
 
   <Mascot v-if="mounted && showMascot" />
@@ -22,6 +30,13 @@
 </template>
 
 <script setup>
+
+const banners = [
+  { img: '/assets/banners/banner.png', link: 'https://denpa.aishitei.ru/about/' },
+  { img: '/assets/banners/denpanosekai.jpg', link: 'https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/' },
+  { img: '/assets/banners/akibablog.webp', link: 'https://akibablog.blog.jp/' },
+]
+
 import DefaultTheme from 'vitepress/theme'
 import { useData, useRouter } from 'vitepress'
 import { watch, onMounted, onBeforeUnmount, nextTick, ref } from 'vue'
@@ -36,10 +51,6 @@ const isNavigating = ref(false)
 const mounted = ref(false)
 const showMascot = ref(false)
 
-watch(showMascot, value => {
-  localStorage.setItem('show-mascot', value)
-})
-
 let scrollListener = null
 let titleElement = null
 let sidebarElement = null
@@ -47,6 +58,12 @@ let observer = null
 let savedScrollPosition = 0
 let fadeTimeout = null
 let currentOpacity = 1
+
+watch(showMascot, value => {
+  if (mounted.value) {
+    localStorage.setItem('show-mascot', value)
+  }
+})
 
 function setCategoryClass(path) {
   if (typeof document === 'undefined') return
@@ -254,4 +271,5 @@ onBeforeUnmount(() => {
     cancelAnimationFrame(fadeTimeout)
   }
 })
+
 </script>
