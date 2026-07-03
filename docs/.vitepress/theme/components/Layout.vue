@@ -17,7 +17,7 @@
 
   </Layout>
 
-  <Mascot v-if="showMascot" />
+  <Mascot v-if="mounted && showMascot" />
 
 </template>
 
@@ -33,6 +33,7 @@ const { Layout } = DefaultTheme
 const { page } = useData()
 const router = useRouter()
 const isNavigating = ref(false)
+const mounted = ref(false)
 const showMascot = ref(false)
 
 watch(showMascot, value => {
@@ -216,6 +217,7 @@ onMounted(() => {
     window.history.scrollRestoration = 'manual'
   }
 
+  mounted.value = true
   showMascot.value = localStorage.getItem('show-mascot') === 'true'
 
   const path = page.value.relativePath
