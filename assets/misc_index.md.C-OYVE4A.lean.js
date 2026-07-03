@@ -1,0 +1,1 @@
+import{_ as a,I as s,f as i,i as r}from"./chunks/framework.CBCFodlo.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"misc/index.md","filePath":"misc/index.md"}'),t={name:"misc/index.md"};function n(c,e,o,d,p,h){return s(),i("div",null,[...e[0]||(e[0]=[r("",2)])])}const u=a(t,[["render",n]]);export{m as __pageData,u as default};
