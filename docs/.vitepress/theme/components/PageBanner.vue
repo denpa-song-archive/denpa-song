@@ -47,7 +47,7 @@ defineProps({
     flex-direction: column;
     justify-content: center;
     padding: 12px 16px;
-    background: linear-gradient(90deg, rgba(10, 5, 20, 0.001), rgba(195, 164, 191, 0.096), rgba(10, 5, 20, 0.064));
+    background: linear-gradient(90deg, rgba(10, 5, 20, 0.001), rgba(229, 226, 196, 0.052), rgba(20, 19, 5, 0.013));
 }
 
 .banner-title {
@@ -86,8 +86,8 @@ defineProps({
         height: auto;
     }
 
-    .banner-title {
-        font-size: 15px;
+    .page-banner .banner-title {
+        font-size: 15px !important;
     }
 
     .banner-image {
@@ -100,7 +100,8 @@ defineProps({
     }
 
     .banner-subtitle {
-        margin-top: -6px;
+        margin-top: -10px;
+        font-size: 10px !important;
     }
 }
 </style>

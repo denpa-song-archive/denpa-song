@@ -9,9 +9,15 @@
       <FloatingPlayer />
     </template>
 
+    <template #nav-bar-content-after>
+      <button class="MascotButton" @click="showMascot = !showMascot">
+        Qchan
+      </button>
+    </template>
+
   </Layout>
 
-  <Mascot />
+  <Mascot v-if="showMascot" />
 
 </template>
 
@@ -26,13 +32,20 @@ import Mascot from './Mascot.vue'
 const { Layout } = DefaultTheme
 const { page } = useData()
 const router = useRouter()
+const isNavigating = ref(false)
+const showMascot = ref(
+  localStorage.getItem('show-mascot') === 'true'
+)
+
+watch(showMascot, value => {
+  localStorage.setItem('show-mascot', value)
+})
 
 let scrollListener = null
 let titleElement = null
 let sidebarElement = null
 let observer = null
 let savedScrollPosition = 0
-const isNavigating = ref(false)
 let fadeTimeout = null
 let currentOpacity = 1
 
@@ -206,6 +219,7 @@ onMounted(() => {
   }
 
   const path = page.value.relativePath
+
   setCategoryClass(path)
   setupScrollListener()
 
@@ -220,6 +234,7 @@ onMounted(() => {
       setupScrollListener()
     }
   })
+
   observer.observe(document.body, {
     childList: true,
     subtree: true

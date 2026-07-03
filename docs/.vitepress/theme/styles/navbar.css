@@ -17,7 +17,7 @@
     backdrop-filter: none !important;
     box-shadow: none !important;
     border-bottom: none !important;
-    gap: 8px !important;
+    gap: 0px !important;
 }
 
 .VPNavBar .divider {
@@ -27,6 +27,18 @@
 /* ========== NAVBARAPPEARANCE ========== */
 
 body:has(.VPHome) .VPNavBarAppearance {
+    display: none !important;
+}
+
+/* ========== NAVBAR EXTRA ========== */
+
+.VPNavBarExtra {
+    display: none !important;
+}
+
+/* ========== NAV DROPDOWN ========== */
+
+.VPLocalNavOutlineDropdown {
     display: none !important;
 }
 
@@ -94,7 +106,8 @@ body:has(.VPHome) .VPNavBarTitle {
 
 @media (max-width: 768px) {
     .VPNavBarTitle {
-        margin-top: 12px
+        margin-top: 12px;
+        margin-left: 0px;
     }
 
     .curtain {
@@ -107,11 +120,7 @@ body:has(.VPHome) .VPNavBarTitle {
     }
 
     .VPLocalNav {
-        transform: translateY(10px);
-        height: 42px;
-    }
-
-    .VPLocalNavOutlineDropdown {
-        display: none !important;
+        transform: translateY(12px);
+        height: 44px;
     }
 }

@@ -3,9 +3,6 @@
 .VPSwitch {
     border-radius: 0px !important;
     background-color: transparent !important;
-    /*
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
-    */
     padding: 6px 12px !important;
     display: flex !important;
     align-items: center !important;
@@ -16,11 +13,9 @@
     width: auto !important;
     overflow: visible !important;
     border: none !important;
-    transition: none !important;
+    transition: background-color 0.15s ease, transform 0.15s ease;
     padding: 0 20px !important;
-    padding-left: 8px !important;
-    padding-right: 32px !important;
-    margin-top: 14px !important;
+    margin-top: 52px !important;
     margin-right: 14px !important;
 }
 
@@ -36,7 +31,7 @@
     position: relative !important;
     background: transparent !important;
     border: 1px solid var(--vp-c-divider);
-    transition: none !important;
+    transition: border-color 0.15s ease;
 }
 
 .VPSwitch .icon svg {
@@ -44,29 +39,14 @@
     height: 18px !important;
     display: block !important;
     overflow: visible !important;
-    transition: none !important;
 }
 
-.VPSwitch .icon {
+.VPSwitch .icon [class^="vpi-"] {
     color: var(--vp-c-text-1) !important;
-    transition: none !important;
 }
 
-.VPSwitch:hover .icon {
-    color: var(--vp-c-brand-1) !important;
-}
-
-.VPSwitch::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    outline: 1px solid transparent;
-    transition: outline 0.15s ease;
-    pointer-events: none;
-}
-
-.VPSwitch:hover::before {
-    outline: 1px solid var(--vp-c-brand-1);
+.VPSwitch:hover .check {
+    border: 1px solid var(--vp-c-brand-1) !important;
 }
 
 @media (max-width: 768px) {
@@ -78,7 +58,6 @@
         height: 32px !important;
         min-height: 32px !important;
         max-height: 32px !important;
-        transition: none !important;
     }
 
     .VPSwitch:hover {
@@ -90,6 +69,5 @@
     .VPSwitch .icon svg {
         width: 16px !important;
         height: 16px !important;
-        transition: none !important;
     }
 }
