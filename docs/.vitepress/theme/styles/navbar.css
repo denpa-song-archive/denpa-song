@@ -41,7 +41,8 @@ body:has(.VPHome) .VPNavBarAppearance {
 }
 
 .VPNavBarTitle {
-    margin-top: 24px
+    margin-top: 24px;
+    margin-left: 10px
 }
 
 .VPNavBarTitle .logo {
@@ -51,7 +52,7 @@ body:has(.VPHome) .VPNavBarAppearance {
     top: 0;
     margin-right: 12px;
     margin-left: 0;
-    max-width: 40px;
+    max-width: 30px;
     transition: transform 0.15s ease;
     pointer-events: none !important;
     outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
