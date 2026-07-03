@@ -1,8 +1,16 @@
+<PageBanner
+  title="Banners"
+  subtitle="Banners that were extracted from the original sites! (ft. 桜)"
+  image="/assets/banners_page/banner.png"
+/>
+
 <Collapsible title="Lookup resources">
 
 - A collection of all banners from circles, units, vocalists, and composers who have them
 
 </Collapsible>
+
+---
 
 <div class="directory-table-wrapper">
 
@@ -61,7 +69,7 @@
 | Composer | [Nekomi Rin](https://www.nekomirin.com/){.primary} | ![](/assets/banners/nekomi_rin.png) |
 | Composer | [Owata P](https://garunan.com/){.primary} | ![](/assets/banners/owata_p.png) |
 
-- Banners unrelated to the above
+---
 
 | Name | Banner |
 |------|--------|

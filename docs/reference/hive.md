@@ -1,6 +1,12 @@
-# Hive
+<PageBanner
+  title="Hive"
+  subtitle="View guides, portals, archives & rankings! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
 
-#### Guides
+---
+
+### Guides
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -13,7 +19,7 @@
 
 ---
 
-#### Portals
+### Portals
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -26,7 +32,7 @@
 
 ---
 
-#### Archives
+### Archives
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -34,7 +40,7 @@
 
 ---
 
-#### Rankings
+### Rankings
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|

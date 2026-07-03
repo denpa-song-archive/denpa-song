@@ -1,4 +1,10 @@
-# Interviews
+<PageBanner
+  title="Interviews"
+  subtitle="View a list of artist related interviews! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
+
+---
 
 ::: tabs
 

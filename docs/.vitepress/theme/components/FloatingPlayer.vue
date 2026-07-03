@@ -23,7 +23,8 @@ watch(currentVideo, async (src) => {
   if (!video) return
 
   video.load()
-  video.play().catch(() => {})
+  video.volume = 0.3
+  video.play().catch(() => { })
 })
 </script>
 
@@ -31,7 +32,7 @@ watch(currentVideo, async (src) => {
 .floating-player {
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  left: 20px;
   width: 320px;
   color: var(--vp-c-text-2);
   z-index: 9999;

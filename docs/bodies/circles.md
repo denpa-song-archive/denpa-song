@@ -1,6 +1,10 @@
-<Collapsible title="To explain the listings">
+<PageBanner
+  title="Circles"
+  subtitle="View circles! (ft. みかん)"
+  image="/assets/banners_page/circles.png"
+/>
 
-####  Circles
+<Collapsible title="To explain the listings">
 
 - please note that a circle involves no legal system
 - please note that members may have been former members
@@ -8,7 +12,7 @@
 
 </Collapsible>
 
-# Circles
+---
 
 | Circle | Members |
 |-|-|

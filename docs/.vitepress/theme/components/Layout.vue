@@ -18,7 +18,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import { useData, useRouter } from 'vitepress'
-import { watch, onMounted, onBeforeUnmount, nextTick } from 'vue'
+import { watch, onMounted, onBeforeUnmount, nextTick, ref } from 'vue'
 import Breadcrumb from './Breadcrumb.vue'
 import FloatingPlayer from './FloatingPlayer.vue'
 import Mascot from './Mascot.vue'
@@ -32,6 +32,9 @@ let titleElement = null
 let sidebarElement = null
 let observer = null
 let savedScrollPosition = 0
+const isNavigating = ref(false)
+let fadeTimeout = null
+let currentOpacity = 1
 
 function setCategoryClass(path) {
   if (typeof document === 'undefined') return
@@ -67,14 +70,17 @@ function setCategoryClass(path) {
 
 function handleSidebarScroll() {
   if (!sidebarElement || !titleElement) return
-  
+  if (isNavigating.value) return
+
   const scrollTop = sidebarElement.scrollTop
   const fadeStart = 0
   const fadeEnd = 80
-  
+
   const progress = Math.min(1, (scrollTop - fadeStart) / (fadeEnd - fadeStart))
   const opacity = Math.max(0, 1 - progress)
-  
+
+  currentOpacity = opacity
+
   titleElement.style.opacity = opacity
   titleElement.style.transform = `translateY(${progress * -8}px)`
 }
@@ -90,14 +96,14 @@ function saveSidebarPosition() {
 function restoreSidebarPosition() {
   const saved = sessionStorage.getItem('sidebar-scroll')
   if (!saved) return
-  
+
   const restore = () => {
     const sidebar = document.querySelector('.VPSidebar')
     if (sidebar) {
       sidebar.scrollTop = Number(saved)
     }
   }
-  
+
   requestAnimationFrame(() => {
     restore()
     setTimeout(() => {
@@ -110,14 +116,19 @@ function restoreSidebarPosition() {
 }
 
 function setupScrollListener() {
-  if (scrollListener && sidebarElement) {
-    sidebarElement.removeEventListener('scroll', scrollListener)
-    scrollListener = null
+  function isMobile() {
+    return window.matchMedia('(max-width: 768px)').matches
   }
-  
+
+  if (isMobile()) return
+
+  if (scrollListener && sidebarElement?.isConnected) {
+    sidebarElement.removeEventListener('scroll', scrollListener)
+  }
+
   sidebarElement = document.querySelector('.VPSidebar')
   titleElement = document.querySelector('.VPNavBarTitle')
-  
+
   if (sidebarElement && titleElement) {
     scrollListener = () => {
       handleSidebarScroll()
@@ -128,39 +139,64 @@ function setupScrollListener() {
   }
 }
 
-function resetTitleVisibility() {
+function preserveTitleState() {
   titleElement = document.querySelector('.VPNavBarTitle')
   if (titleElement) {
-    titleElement.style.opacity = '1'
-    titleElement.style.transform = 'translateY(0px)'
-  }
-  
-  sidebarElement = document.querySelector('.VPSidebar')
-  if (sidebarElement) {
-    sidebarElement.scrollTop = 0
+    titleElement.style.transition = 'none'
+    titleElement.style.opacity = currentOpacity
+    const progress = 1 - currentOpacity
+    titleElement.style.transform = `translateY(${progress * -8}px)`
+
+    void titleElement.offsetHeight
+
+    requestAnimationFrame(() => {
+      if (titleElement) {
+        titleElement.style.transition = 'opacity 0.15s ease, transform 0.15s ease'
+      }
+    })
   }
 }
 
 watch(() => router.route.path, () => {
+  isNavigating.value = true
   saveSidebarPosition()
-  
+
   nextTick(() => {
-    resetTitleVisibility()
+    preserveTitleState()
     setupScrollListener()
+
     const path = page.value.relativePath
     setCategoryClass(path)
-    restoreSidebarPosition()
+
+    nextTick(() => {
+      restoreSidebarPosition()
+
+      setTimeout(() => {
+        isNavigating.value = false
+        handleSidebarScroll()
+      }, 100)
+    })
   })
 })
 
-watch(() => page.value.relativePath, (newPath) => {
+watch(() => page.value.relativePath, (newPath, oldPath) => {
+  if (oldPath === undefined) return
+
+  isNavigating.value = true
   saveSidebarPosition()
-  
+
   nextTick(() => {
-    resetTitleVisibility()
+    preserveTitleState()
     setupScrollListener()
     setCategoryClass(newPath)
-    restoreSidebarPosition()
+
+    nextTick(() => {
+      restoreSidebarPosition()
+      setTimeout(() => {
+        isNavigating.value = false
+        handleSidebarScroll()
+      }, 100)
+    })
   })
 })
 
@@ -168,13 +204,15 @@ onMounted(() => {
   if (typeof window !== 'undefined') {
     window.history.scrollRestoration = 'manual'
   }
-  
+
   const path = page.value.relativePath
   setCategoryClass(path)
-  resetTitleVisibility()
   setupScrollListener()
-  
-  restoreSidebarPosition()
+
+  setTimeout(() => {
+    restoreSidebarPosition()
+    handleSidebarScroll()
+  }, 100)
 
   observer = new MutationObserver(() => {
     const sidebar = document.querySelector('.VPSidebar')
@@ -189,12 +227,14 @@ onMounted(() => {
 })
 
 onBeforeUnmount(() => {
-  if (scrollListener && sidebarElement) {
+  if (scrollListener && sidebarElement?.isConnected) {
     sidebarElement.removeEventListener('scroll', scrollListener)
-    scrollListener = null
   }
   if (observer) {
     observer.disconnect()
+  }
+  if (fadeTimeout) {
+    cancelAnimationFrame(fadeTimeout)
   }
 })
 </script>

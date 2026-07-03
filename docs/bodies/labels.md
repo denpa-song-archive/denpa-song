@@ -1,12 +1,16 @@
-<Collapsible title="To explain the listings">
+<PageBanner
+  title="Labels"
+  subtitle="View labels! (ft. キャバクラ嬢)"
+  image="/assets/banners_page/labels.png"
+/>
 
-####  Publishers
+<Collapsible title="To explain the listings">
 
 - please note that publishers, labels & talent agencies involve a legal system and are officially registered
 
 </Collapsible>
 
-# Labels
+---
 
 | Entry | Groups | Parent |
 |-------|--------|--------|

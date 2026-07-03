@@ -1,6 +1,6 @@
 # Reference
 
-<Collapsible title="To explain the listings" :defaultOpen="true">
+<Collapsible title="To explain the listings">
 
 In general, the following can be said:
 
@@ -29,6 +29,8 @@ Layers can reference and feed into each other:
 With that in mind, many of the entries below may fit into multiple criteria above
 
 </Collapsible>
+
+---
 
 <div class="introduction-card-grid">
 

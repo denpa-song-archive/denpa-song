@@ -3,6 +3,7 @@
     <div class="mascot-container" ref="containerRef" :style="containerStyle">
       <div class="window-frame" ref="windowFrameRef" @mousedown="startDrag" @touchstart="startDragTouch">
         <div class="window-titlebar" ref="titleBarRef">
+          <div class="window-title">Qchan</div>
           <div class="window-controls" @mousedown.stop @touchstart.stop>
             <button class="window-control-circle" @click="onCircleClick" />
             <button class="window-control-triangle" @click="onTriangleClick" />
@@ -63,55 +64,55 @@ const containerStyle = computed(() => ({
 
 const startDrag = (e) => {
   if (e.target.closest('.window-controls')) return
-  
+
   dragState.isDragging = true
   dragState.startX = e.clientX
   dragState.startY = e.clientY
   dragState.offsetX = dragState.currentX
   dragState.offsetY = dragState.currentY
-  
+
   document.addEventListener('mousemove', onDrag)
   document.addEventListener('mouseup', stopDrag)
-  
+
   e.preventDefault()
 }
 
 const startDragTouch = (e) => {
   if (e.target.closest('.window-controls')) return
-  
+
   const touch = e.touches[0]
   dragState.isDragging = true
   dragState.startX = touch.clientX
   dragState.startY = touch.clientY
   dragState.offsetX = dragState.currentX
   dragState.offsetY = dragState.currentY
-  
+
   document.addEventListener('touchmove', onDragTouch, { passive: false })
   document.addEventListener('touchend', stopDragTouch)
-  
+
   e.preventDefault()
 }
 
 const onDrag = (e) => {
   if (!dragState.isDragging) return
-  
+
   const dx = e.clientX - dragState.startX
   const dy = e.clientY - dragState.startY
-  
+
   dragState.currentX = dragState.offsetX + dx
   dragState.currentY = dragState.offsetY + dy
 }
 
 const onDragTouch = (e) => {
   if (!dragState.isDragging) return
-  
+
   const touch = e.touches[0]
   const dx = touch.clientX - dragState.startX
   const dy = touch.clientY - dragState.startY
-  
+
   dragState.currentX = dragState.offsetX + dx
   dragState.currentY = dragState.offsetY + dy
-  
+
   e.preventDefault()
 }
 
@@ -133,20 +134,20 @@ const onCircleClick = () => {
   const mascotWrapper = mascotWrapperRef.value
   const container = containerRef.value
   const windowFrame = windowFrameRef.value
-  
+
   if (!bedroomWrapper || !mascotWrapper || !windowFrame) return
-  
+
   isMinimized = !isMinimized
-  
+
   if (isMinimized) {
     bedroomWrapper.style.transition = 'all 0.3s ease'
     mascotWrapper.style.transition = 'all 0.3s ease'
-    
+
     bedroomWrapper.style.opacity = '0'
     bedroomWrapper.style.transform = 'scale(0.95)'
     mascotWrapper.style.opacity = '0'
     mascotWrapper.style.transform = 'scale(0.95)'
-    
+
     setTimeout(() => {
       bedroomWrapper.style.display = 'none'
       mascotWrapper.style.display = 'none'
@@ -158,16 +159,16 @@ const onCircleClick = () => {
   } else {
     bedroomWrapper.style.display = 'block'
     mascotWrapper.style.display = 'block'
-    
+
     if (container) {
       container.style.height = '200px'
       container.style.transition = 'height 0.3s ease'
     }
-    
+
     nextTick(() => {
       bedroomWrapper.style.transition = 'opacity 0.3s ease, transform 0.3s ease'
       mascotWrapper.style.transition = 'opacity 0.3s ease, transform 0.3s ease'
-      
+
       bedroomWrapper.style.opacity = '1'
       bedroomWrapper.style.transform = 'scale(1)'
       mascotWrapper.style.opacity = '1'
@@ -204,7 +205,7 @@ const setState = (state) => {
       if (state !== 'scroll' || !isScrolling) {
         v.currentTime = 0
       }
-      v.play().catch(() => {})
+      v.play().catch(() => { })
     } else {
       v.style.opacity = '0'
       v.pause()
@@ -217,7 +218,7 @@ let lastMouseY = 0
 
 const isInteractiveElement = (el) => {
   if (!el) return false
-  
+
   return !!(
     el?.closest('a') ||
     el?.closest('button') ||
@@ -244,7 +245,7 @@ const triggerClick = (e) => {
 
   const el = document.elementFromPoint(e.clientX, e.clientY)
   const isInteractive = isInteractiveElement(el)
-  
+
   if (!isInteractive) return
 
   lock = true
@@ -268,7 +269,7 @@ let isOverInteractive = false
 const handleMove = (e) => {
   lastMouseX = e.clientX
   lastMouseY = e.clientY
-  
+
   if (lock) return
 
   const el = document.elementFromPoint(e.clientX, e.clientY)
@@ -346,7 +347,7 @@ onMounted(() => {
     v.src = sources[key]
     v.loop = true
     v.style.opacity = key === 'idle' ? '1' : '0'
-    v.play().catch(() => {})
+    v.play().catch(() => { })
   }
 
   setState('idle')
@@ -382,7 +383,7 @@ onBeforeUnmount(() => {
   width: 100%;
   height: 100%;
   background: #1a1a2e;
-  border-radius: 8px;
+  border-radius: 10px;
   border: 1px solid rgba(43, 34, 55, 0.1);
   box-shadow: 0 8px 32px rgba(229, 136, 252, 0.223);
   overflow: hidden;
@@ -396,18 +397,32 @@ onBeforeUnmount(() => {
 
 .window-titlebar {
   position: relative;
-  height: 20px;
-  background: #1b1434e6;
-  backdrop-filter: blur(10px);
   display: flex;
   align-items: center;
   justify-content: flex-end;
+  height: 20px;
+  background: #1b1434e6;
+  backdrop-filter: blur(10px);
   padding: 0 12px;
   z-index: 10;
   pointer-events: none;
   gap: 8px;
   user-select: none;
   -webkit-user-select: none;
+}
+
+.window-title {
+  flex: 0.45;
+  font-size: 11px;
+  color: #cfcfe6;
+  opacity: 0.8;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  user-select: none;
+  -webkit-user-select: none;
+  padding-left: 6px;
+  padding-top: 4px;
 }
 
 .window-controls {

@@ -13,7 +13,7 @@ export default defineConfig({
     'i-lucide:book-search',
     'i-lucide:sparkles',
     'i-lucide:letter-text',
-
+    'i-lucide:chart-spline',
     'i-lucide:book-open',
     'i-lucide:file-user',
     'i-lucide:file-heart',
@@ -26,9 +26,7 @@ export default defineConfig({
     'i-lucide:file-search-corner',
     'i-lucide:file-box',
     'i-lucide:messages-square',
-
     'i-lucide:headphones',
-
     'i-lucide:user',
     'i-lucide:user-round-search',
     'i-lucide:building-2',
@@ -40,21 +38,17 @@ export default defineConfig({
     'i-lucide:mic-vocal',
     'i-lucide:keyboard-music',
     'i-lucide:heart-handshake',
-
     // 'i-lucide:user-star',
     // 'i-lucide:user-pen',
     // 'i-lucide:user-cog',
-
     'i-lucide:globe',
     'i-lucide:circle-dashed',
     'i-lucide:twitter',
     'i-lucide:house-heart',
-
     'i-lucide:drama',
     'i-lucide:panda',
     'i-lucide:paintbrush',
     'i-lucide:list-music',
-
     'i-lucide:beer',
     'i-lucide:star',
     'i-lucide:sprout',

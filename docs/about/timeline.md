@@ -1,3 +1,9 @@
+<PageBanner
+  title="Timeline"
+  subtitle="View the development of denpa song! (ft. しっぽ)"
+  image="/assets/banners_page/timeline.png"
+/>
+
 <Collapsible title="Work in progress">
 
 to understand context, we must look at the environment; denpa-song went through various periods & is generally strongly associated with entertainment & japanese culture
@@ -11,7 +17,7 @@ to understand context, we must look at the environment; denpa-song went through 
   - v
   - 2010s-2020s [ DENPA EXPOSURE OVERSEAS (4chan /jp/) | RHYTHM GAMES | VTUBER INDUSTRY | "CUTECORE" ]
 
-please remember the folloqing quote: 
+please remember the following quote: 
 
 "in japan the mainstream culture is always what's been adopted from foreign cultures. subculture is where real japanese culture lies."
 
@@ -143,6 +149,7 @@ please remember the folloqing quote:
 - in 1999, Japan ruled out the "Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children" which was Japan's first dedicated child pornography law which criminalized the production, distribution, prostitution, sale, import & export of child pornography. the possession was also criminalized BUT only if it were for the purpose of distribution; simple possession for one's own consumption (personal use) was not yet illegal
   - prior to this new law, there was no dedicated child pornography law and japan primarily relied on Article 175 of the Japanese Penal Code which was also known as the obscenity law or more specifically 'Waisetsu Butsu Hanpu To' where obscenity translates to 'waisetsu'
   - under this new law, lolicon remained legal as this act was to target material involving real child victims
+  
 ---
 
 2000s:

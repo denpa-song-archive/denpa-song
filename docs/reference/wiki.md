@@ -1,4 +1,10 @@
-# Wiki
+<PageBanner
+  title="Wiki"
+  subtitle="View wiki entries! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
+
+---
 
 ::: tabs
 

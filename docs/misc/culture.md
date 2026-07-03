@@ -1,3 +1,11 @@
+<PageBanner
+  title="Culture Reading"
+  subtitle="Resources related to otaku culture! (ft. トイレを閉める)"
+  image="/assets/banners_page/culture.png"
+/>
+
+---
+
 #### Literature
 
 | Publish Date | Author | Title | Link |
@@ -39,6 +47,8 @@
 | - | ChosenX_ | Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1) | [View](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
 | - | - | 2 Channel — English Navigator ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━!!!!! | [View](https://services.4-ch.net/2chportal/) |
 | - | Parzival | Honda Toru: The Otaku Critique | [View](https://www.scribd.com/document/856526091/Love-is-Dead) |
+
+---
 
 #### Tools
 

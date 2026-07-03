@@ -1,3 +1,11 @@
+<PageBanner
+  title="Pre 2000s Denpa Song"
+  subtitle="Video playback is supported on this site! (ft. お墓と幽霊)"
+  image="/assets/banners_page/pre.png"
+/>
+
+---
+
 | Release Date | Title | Video |
 |--------------|-------|-------|
 | 1969 | すきすきソング | <VideoLink src="/videos/水森亜土 アッコちゃんすきすきすき.mp4" title="すきすきソング" /> |

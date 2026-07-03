@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://denpa.aishitei.ru/assets/misc/icon.png" alt="Denpa Song Archive Icon" width="500"/>
+<img src="https://denpa.aishitei.ru/assets/misc/icon.png" alt="Denpa Song Archive Icon" width="200"/>
 
 # 電波ソング・アーカイブ · Denpa Song Archive
   

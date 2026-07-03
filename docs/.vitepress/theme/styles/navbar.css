@@ -40,18 +40,31 @@ body:has(.VPHome) .VPNavBarAppearance {
     border-bottom: none !important;
 }
 
-@media (min-width: 1440px) {
-    .VPNavBar.has-sidebar .content {
-        padding-right: 0 !important;
-    }
-}
-
 .VPNavBarTitle {
-    opacity: 0;
-    transition: opacity 0.15s ease, transform 0.15s ease;
-    will-change: opacity, transform;
     margin-top: 24px
 }
+
+.VPNavBarTitle .logo {
+    width: 100px !important;
+    height: auto !important;
+    position: relative;
+    top: 0;
+    margin-right: 12px;
+    margin-left: 0;
+    max-width: 40px;
+    transition: transform 0.15s ease;
+    pointer-events: none !important;
+    outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
+}
+
+.curtain,
+.VPTheme .curtain {
+    min-height: 110px !important;
+    height: 110px !important;
+    overflow: visible !important;
+    background-color: var(--vp-c-bg-soft) !important;
+}
+
 
 .VPNavBarTitle.visible {
     opacity: 1;
@@ -63,36 +76,10 @@ body:has(.VPHome) .VPNavBarAppearance {
     transform: translateY(-8px);
 }
 
-.VPNavBarTitle .logo {
-    width: 100px !important;
-    height: auto !important;
-    position: relative;
-    top: 0px;
-    margin-right: 12px;
-    transition: transform 0.15s ease;
-    pointer-events: none !important;
-    margin-left: 0px;
-    max-width: 40px;
-    outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
-}
-
 body:has(.VPHome) .VPNavBarTitle {
     display: none !important;
 }
 
-
-@media (max-width: 768px) {
-    .VPNavBarTitle .title {
-        margin-top: -38px;
-        margin-left: -4px;
-        font-size: 0.9rem;
-        max-width: 50px;
-    }
-
-    .VPLocalNavOutlineDropdown {
-        display: none !important;
-    }
-}
 
 /* ========== CURTAIN ========== */
 
@@ -102,13 +89,28 @@ body:has(.VPHome) .VPNavBarTitle {
     visibility: hidden;
 }
 
-@media (min-width: 769px) {
+/* ========== OTHER ========== */
 
-    .curtain,
-    .VPTheme .curtain {
-        min-height: 110px !important;
-        height: 110px !important;
-        overflow: visible !important;
-        background-color: var(--vp-c-bg-soft) !important;
+@media (max-width: 768px) {
+    .VPNavBarTitle {
+        margin-top: 12px
+    }
+
+    .curtain {
+        min-height: 0px !important;
+        height: 0px !important;
+    }
+
+    .VPNavBarTitle .logo {
+        max-width: 22px;
+    }
+
+    .VPLocalNav {
+        transform: translateY(10px);
+        height: 42px;
+    }
+
+    .VPLocalNavOutlineDropdown {
+        display: none !important;
     }
 }

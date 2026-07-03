@@ -7,9 +7,9 @@
   <p>EN & JP terminology</p>
 </a>
 
-<a href="/about/description" class="introduction-card">
-  <h3>🚧 Description</h3>
-  <p>Brief description of Denpa Song</p>
+<a href="/about/timeline" class="introduction-card">
+  <h3>🚧 Timeline</h3>
+  <p>Brief timeline of Denpa Song</p>
 </a>
 
 </div> 

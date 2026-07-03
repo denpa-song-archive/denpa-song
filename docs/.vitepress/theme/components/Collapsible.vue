@@ -2,7 +2,9 @@
   <div class="custom-collapsible" :class="{ open: isOpen }">
     <button class="collapsible-header" @click="toggle">
       <span class="collapsible-icon">{{ isOpen ? '▾' : '▸' }}</span>
-      <span class="collapsible-title"><slot name="title">{{ title }}</slot></span>
+      <span class="collapsible-title">
+        <slot name="title">{{ title }}</slot>
+      </span>
       <img src="/assets/misc/icon.png" class="collapsible-decoration" alt="" />
     </button>
     <div class="collapsible-body" v-show="isOpen">
@@ -65,10 +67,6 @@ const toggle = () => {
   z-index: 30;
 }
 
-.collapsible-header:hover {
-  background: var(--vp-c-bg);
-}
-
 .collapsible-icon {
   display: inline-block;
   font-size: 0.8rem;
@@ -113,6 +111,11 @@ const toggle = () => {
   border-top: 1px solid var(--vp-c-divider);
   color: var(--vp-c-text-2);
   font-size: 0.9rem;
+}
+
+.collapsible-content * {
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
 }
 
 @media (max-width: 768px) {

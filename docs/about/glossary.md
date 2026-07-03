@@ -1,4 +1,12 @@
-# Denpa Related Vocabulary
+<PageBanner
+  title="Glossary"
+  subtitle="Discover vocabulary! (ft. 死神)"
+  image="/assets/banners_page/glossary.png"
+/>
+
+---
+
+### Denpa Song Related Vocabulary
 
 ::: tabs
 
@@ -246,11 +254,11 @@
 
 ---
 
-# Otaku Related Vocabulary
+### Otaku Related Vocabulary
 
 <Collapsible title="Tip">
 
-- A lot of vocabulary is not covered not covered on this page as it does not really relate to denpa song as a whole so as a recommendation I would refer to one of Patrick W. Galbraith's works called "The Otaku Encyclopedia", a 2009 encyclopedia that provides even more context on certain slang & context
+- A lot of vocabulary is not covered on this page as it does not really relate to denpa song as a whole so as a recommendation I would refer to one of Patrick W. Galbraith's works called "The Otaku Encyclopedia", a 2009 encyclopedia that provides even more context on certain slang & context
 
 </Collapsible>
 

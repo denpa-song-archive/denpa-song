@@ -1,4 +1,8 @@
-# Streaming
+<PageBanner
+  title="Streaming"
+  subtitle="Find resources for streaming denpa song! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
 
 <Collapsible title="Notice">
 
@@ -6,7 +10,9 @@
 
 </Collapsible>
 
-#### Youtube
+---
+
+### Youtube
 
 ::: tabs
 
@@ -131,7 +137,7 @@
 
 ---
 
-#### Spotify
+### Spotify
 
 | Author | Playlist |
 |-|-|
@@ -139,7 +145,7 @@
 
 ---
 
-#### SoundCloud
+### SoundCloud
 
 | Joined | Author | Profile Link |
 |-|-|-|

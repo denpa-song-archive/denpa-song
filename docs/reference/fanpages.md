@@ -1,5 +1,10 @@
+<PageBanner
+  title="Fanpages"
+  subtitle="View a list of fanpages dedicated to artists! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
 
-# Fanpages
+---
 
 ::: tabs
 

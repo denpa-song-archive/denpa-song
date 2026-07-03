@@ -1,12 +1,16 @@
-<Collapsible title="To explain the listings">
+<PageBanner
+  title="Publishers"
+  subtitle="View publishers! (ft. 記者)"
+  image="/assets/banners_page/publishers.png"
+/>
 
-####  Publishers
+<Collapsible title="To explain the listings">
 
 - please note that publishers, labels & talent agencies involve a legal system and are officially registered
 
 </Collapsible>
 
-# Publishers
+---
 
 | Entry | Groups | Parent |
 |-------|--------|--------|

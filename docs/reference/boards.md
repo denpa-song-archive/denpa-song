@@ -1,6 +1,12 @@
-# Boards
+<PageBanner
+  title="Boards"
+  subtitle="View a list of text- & imageboard entries! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
 
-#### Entire Boards
+---
+
+### Boards
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -8,7 +14,7 @@
 
 ---
 
-#### Threads
+### Threads
 
 :::: tabs
 
@@ -16,14 +22,14 @@
 
 ::: tabs
 
-== world2ch.net (textboard)
+== world2ch.net
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
 | jUaJswvo | 2003/07/23 | 電波ソングを外国に広めるガ（略 | [View](http://web.archive.org/web/20030826102010/http://world2ch.net/test/read.cgi/japan/1058937781/) |
 | fG5X6Qis | 2003/07/26 | Guidebook of funny dempa song of world2ch | [View](https://web.archive.org/web/20030909004053/http://world2ch.net/test/read.cgi/music/1059250539/l50) |
 
-== 4-ch.net (textboard)
+== 4-ch.net
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
@@ -33,7 +39,7 @@
 | Heaven | 2005-11-09 | Moe Denpa Songs Turned Extreme Metal (28) | [View](https://archives.4-ch.net/music/kareha.pl/1131506432/l50) |
 | gqq1Dpq2 | 2006-11-30 | History of Dempa?? (5) | [View](https://archives.4-ch.net/music/kareha.pl/1164904841/l50) |
 
-== 4chan.org /jp/ (Not Part of Series)
+== 4chan.org
 
 | Thread ID | Date | Thread Title | Link |
 |-----------|------|--------------|------|
@@ -84,32 +90,32 @@
 | 50064511 | Sep 26, 2025 | trudenpa / リアル電波 | [View](https://warosu.org/jp/thread/50064511) |
 | 50322413 | Nov 19, 2025 | - | [View](https://warosu.org/jp/thread/50322413) |
 
-== heyuri.net (imageboard)
+== heyuri.net
 
 | Thread ID | Date | Thread Title | Link |
 |-----------|------|--------------|------|
 | 2676 | 2023/01/09 | Denpa Thread / 電波ソング | [View](https://dis.heyuri.net/lounge/koko.php?res=2676&page=0#p5_2676) |
 
-== wapchan.org (imageboard)
+== wapchan.org
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 1063 | April 30, 2025 | [View](https://wapchan.org/djn/res/1063.html) |
 
-== kissu.moe (imageboard)
+== kissu.moe
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 150363 | April 24, 2025 | [View](https://kissu.moe/qa/thread/150363) |
 | 169440 | Jan 18, 2026 | [View](https://kissu.moe/qa/thread/169440) |
 
-== leftychan.net (imageboard)
+== leftychan.net
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 1874 | May 25, 2021 | [View](https://leftychan.net/ent/res/1874.html) |
 
-== bunbunmaru.com (imageboard)
+== bunbunmaru.com
 
 | Thread ID | Date | Link |
 |-----------|------|------|

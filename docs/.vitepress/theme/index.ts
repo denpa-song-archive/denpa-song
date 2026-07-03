@@ -7,6 +7,7 @@ import FloatingPlayer from './components/FloatingPlayer.vue'
 import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 import Collapsible from './components/Collapsible.vue'
 import VocalistTable from './components/VocalistTable.vue'
+import PageBanner from './components/PageBanner.vue'
 
 if (typeof window !== 'undefined') {
   (function () {
@@ -34,6 +35,7 @@ export default {
     app.component('FloatingPlayer', FloatingPlayer)
     app.component('Collapsible', Collapsible)
     app.component('VocalistTable', VocalistTable)
+    app.component('PageBanner', PageBanner)
     enhanceAppWithTabs(app)
   },
 }

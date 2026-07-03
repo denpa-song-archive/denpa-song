@@ -1,4 +1,12 @@
-# case 1: internet & technology
+<PageBanner
+  title="Aesthetic"
+  subtitle="Figure out how to visually pinpoint denpa song! (ft. チョコレート)"
+  image="/assets/banners_page/aesthetic.png"
+/>
+
+---
+
+### Case 1: internet & technology
 
 <div class="album-grid">
   <div class="album-card">
@@ -64,7 +72,7 @@
 
 ---
 
-# case 2: magical girls
+### Case 2: magical girls
 
 <div class="album-grid">
 <div class="album-card">
@@ -111,7 +119,7 @@
 
 ---
 
-# case 3: animals & animal traits
+### Case 3: animals & animal traits
 
 <div class="album-grid">
   <div class="album-card">
@@ -172,7 +180,7 @@
 
 ---
 
-# case 4: delicacy, food items & petite
+### Case 4: delicacy, food items & petite
 
 <div class="album-grid">
   <div class="album-card">
@@ -263,7 +271,7 @@
 
 ---
 
-# case 5: queen / princess / royal status
+### Case 5: queen / princess / royal status
 
 <div class="album-grid">
   <div class="album-card">
@@ -329,7 +337,7 @@
 
 ---
 
-# case 6: akiba idols
+### Case 6: akiba idols
 
 <div class="album-grid">
   <div class="album-card">
@@ -450,7 +458,7 @@
 
 ---
 
-# case 7: jojifuku fashion
+### Case 7: jojifuku fashion
 
 <div class="album-grid">
   <div class="album-card">

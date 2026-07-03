@@ -1,4 +1,10 @@
-# Downloads
+<PageBanner
+  title="Downloads"
+  subtitle="Find direct downloads to denpa song! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
+
+---
 
 ::: tabs
 

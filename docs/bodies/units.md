@@ -1,13 +1,17 @@
-<Collapsible title="To explain the listings">
+<PageBanner
+  title="Units"
+  subtitle="View units! (ft. なんかやばそうな女子中高生)"
+  image="/assets/banners_page/units.png"
+/>
 
-####  Units
+<Collapsible title="To explain the listings">
 
 - please note that units are usually temporary groups organized or presented by a circle
 - please note that units are not limited to circles but may be a standalone
 
 </Collapsible>
 
-# Units
+---
 
 | Unit | Members | Parent |
 |-|-|-|

@@ -18,6 +18,8 @@
 
 </Collapsible>
 
+---
+
 <div class="introduction-card-grid">
 
 <a href="/bodies/publishers" class="introduction-card">

@@ -1,4 +1,10 @@
-# Composers
+<PageBanner
+  title="Composers"
+  subtitle="View composers! (ft. 猫の水森君の表情集)"
+  image="/assets/banners_page/composers.png"
+/>
+
+---
 
 ::: tabs
 

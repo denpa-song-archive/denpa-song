@@ -27,7 +27,7 @@ export default defineConfig({
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",
-  lastUpdated: true,
+  lastUpdated: false,
   markdown: {
     config(md) {
       md.use(tabsMarkdownPlugin)
@@ -43,8 +43,9 @@ export default defineConfig({
       prev: false,
       next: false
     },
+    /*
     search: {
-      provider: 'local',
+      provider: 'local'
       options: {
         miniSearch: {
           searchOptions: {
@@ -70,6 +71,7 @@ export default defineConfig({
         }
       }
     },
+    */
     sidebar: [
       {
         text: '<span class="i-lucide:badge-info"></span> About',
@@ -82,9 +84,9 @@ export default defineConfig({
             link: '/about/glossary'
           },
           {
-            text: '<span class="i-lucide:letter-text"></span> 🚧 Description',
+            text: '<span class="i-lucide:chart-spline"></span> 🚧 Timeline',
             collapsed: false,
-            link: '/about/description'
+            link: '/about/timeline'
           },
           /*
           {

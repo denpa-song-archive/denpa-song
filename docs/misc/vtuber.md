@@ -1,4 +1,10 @@
-## VTubers
+<PageBanner
+  title="VTubers"
+  subtitle="Denpa Song artists with a vtuber persona! (ft. 虎と狸)"
+  image="/assets/banners_page/vtuber.png"
+/>
+
+---
 
 | VTuber | Channel |
 |-|-|

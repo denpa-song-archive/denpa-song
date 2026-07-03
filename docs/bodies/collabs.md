@@ -1,12 +1,16 @@
-<Collapsible title="To explain the listings">
+<PageBanner
+  title="Collabs"
+  subtitle="View collabs! (ft. ガシャポンのカプセルトイ)"
+  image="/assets/banners_page/collabs.png"
+/>
 
-#### Collabs
+<Collapsible title="To explain the listings">
 
 - collaborations are collaborations between two artists or units
 
 </Collapsible>
 
-# Collabs
+---
 
 | Collab | Titles |
 |-|-|

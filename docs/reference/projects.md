@@ -1,4 +1,10 @@
-# Projects
+<PageBanner
+  title="Projects"
+  subtitle="View a list of denpa song projects! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
+
+---
 
 :::: tabs
 

@@ -1,4 +1,10 @@
-# Database
+<PageBanner
+  title="Database"
+  subtitle="View databases! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
+
+---
 
 ::: tabs
 

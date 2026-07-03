@@ -1,5 +1,10 @@
+<PageBanner
+  title="Blogposts"
+  subtitle="View a list of denpa (song) related blogposts! (ft. カレー)"
+  image="/assets/banners_page/reference_media.png"
+/>
 
-# Blogposts
+---
 
 ::: tabs
 
