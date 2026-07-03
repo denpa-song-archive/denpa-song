@@ -33,9 +33,7 @@ const { Layout } = DefaultTheme
 const { page } = useData()
 const router = useRouter()
 const isNavigating = ref(false)
-const showMascot = ref(
-  localStorage.getItem('show-mascot') === 'true'
-)
+const showMascot = ref(false)
 
 watch(showMascot, value => {
   localStorage.setItem('show-mascot', value)
@@ -217,6 +215,8 @@ onMounted(() => {
   if (typeof window !== 'undefined') {
     window.history.scrollRestoration = 'manual'
   }
+
+  showMascot.value = localStorage.getItem('show-mascot') === 'true'
 
   const path = page.value.relativePath
 
