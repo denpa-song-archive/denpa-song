@@ -12,18 +12,6 @@
 
 /* ========== CONTENT CONTAINER ========== */
 
-/*
-.VPContent .content-container {
-    background: transparent !important;
-    background: var(--vp-c-bg-soft);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, .1);
-    margin: 0 auto;
-    max-width: 1200px;
-    width: 100%;
-    box-sizing: border-box;
-}
-*/
-
 .VPDoc .content:not(.VPDocAside .content) {
     padding: 0 !important;
     padding-bottom: 0 !important;

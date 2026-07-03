@@ -19,6 +19,10 @@
     border: 1px solid var(--vp-c-brand-1) !important;
 }
 
+body:has(.VPHome) .VPNavBar .MascotButton {
+    display: none !important;
+}
+
 @media (max-width: 768px) {
     .VPNavBar .MascotButton {
         display: none !important;
