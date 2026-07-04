@@ -12,7 +12,7 @@
 
 ---
 
-### Youtube
+#### Youtube
 
 ::: tabs
 
@@ -137,7 +137,7 @@
 
 ---
 
-### Spotify
+#### Spotify
 
 | Author | Playlist |
 |-|-|
@@ -145,7 +145,7 @@
 
 ---
 
-### SoundCloud
+#### SoundCloud
 
 | Joined | Author | Profile Link |
 |-|-|-|

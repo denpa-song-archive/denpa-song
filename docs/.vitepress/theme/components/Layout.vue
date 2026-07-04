@@ -35,6 +35,7 @@ const banners = [
   { img: '/assets/banners/banner.png', link: 'https://denpa.aishitei.ru/about/' },
   { img: '/assets/banners/denpanosekai.jpg', link: 'https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/' },
   { img: '/assets/banners/akibablog.webp', link: 'https://akibablog.blog.jp/' },
+  { img: '/assets/banners/loli-aishiteiru.png', link: 'https://loli.aishitei.ru/' },
 ]
 
 import DefaultTheme from 'vitepress/theme'

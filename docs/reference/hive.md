@@ -6,7 +6,7 @@
 
 ---
 
-### Guides
+#### Guides
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -19,7 +19,7 @@
 
 ---
 
-### Portals
+#### Portals
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -32,7 +32,7 @@
 
 ---
 
-### Archives
+#### Archives
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -40,7 +40,7 @@
 
 ---
 
-### Rankings
+#### Rankings
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|

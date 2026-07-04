@@ -13,12 +13,12 @@
 
 ---
 
-### Pre 2010s
+#### Pre 2010s
 
 <VocalistTable set="pre" title="Vocalist" />
 
 ---
 
-### Post 2010s
+#### Post 2010s
 
 <VocalistTable set="post" title="Vocalist" />

@@ -6,7 +6,7 @@
 
 ---
 
-### Boards
+#### Boards
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -14,7 +14,7 @@
 
 ---
 
-### Threads
+#### Threads
 
 :::: tabs
 

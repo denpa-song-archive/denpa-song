@@ -6,7 +6,7 @@
 
 ---
 
-### Denpa Song Related Vocabulary
+#### Denpa Song Related Vocabulary
 
 ::: tabs
 
@@ -254,7 +254,7 @@
 
 ---
 
-### Otaku Related Vocabulary
+#### Otaku Related Vocabulary
 
 <Collapsible title="Tip">
 
