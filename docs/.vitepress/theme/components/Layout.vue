@@ -16,10 +16,23 @@
     </template>
 
     <template #aside-top>
-      <div class="CustomSidebar">
-        <a v-for="b in banners" :key="b.img" :href="b.link" target="_blank" rel="noopener noreferrer">
-          <img :src="b.img" />
-        </a>
+      <div class="BannerSidebar">
+        <div class="WindowTitle">
+          ♥ Recommended Sites
+        </div>
+
+        <div class="BannerList">
+          <a v-for="b in banners" :key="b.img" :href="b.link" target="_blank" rel="noopener noreferrer">
+            <img :src="b.img" />
+          </a>
+        </div>
+      </div>
+
+      <div class="MascotSidebar">
+        <div class="WindowTitle">
+          電波人！-dempanchu☆-
+        </div>
+        <img src="/assets/mascots/denpa.png" alt="Denpa song mascot" class="MascotImage" />
       </div>
     </template>
 
@@ -36,6 +49,7 @@ const banners = [
   { img: '/assets/banners/denpanosekai.jpg', link: 'https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/' },
   { img: '/assets/banners/akibablog.webp', link: 'https://akibablog.blog.jp/' },
   { img: '/assets/banners/loli-aishiteiru.png', link: 'https://loli.aishitei.ru/' },
+  { img: '/assets/banners/vnclub.png', link: 'https://vnclub.org/' },
 ]
 
 import DefaultTheme from 'vitepress/theme'

@@ -9,7 +9,7 @@
         cursor: pointer;
         transition: color .15s ease;
         border: 1px solid var(--vp-c-divider);
-        margin-top: 52px !important;
+        margin-top: 40px !important;
         width: 50px !important;
         height: 22px !important;
         color: var(--vp-c-text-2);

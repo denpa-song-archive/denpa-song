@@ -2,7 +2,7 @@
 
 .VPSidebar {
     background-color: var(--vp-c-bg-soft) !important;
-    margin: 0px 0 !important;
+    margin: -25px 0 !important;
     margin-right: 10px !important;
     padding-top: 0px !important;
     padding-bottom: 24px !important;
@@ -115,14 +115,49 @@
 
 /* ========== CUSTOM SIDEBAR ========== */
 
-.CustomSidebar {
-    grid-column: 2;
-    position: sticky;
-    top: 0px;
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.04);
+.BannerSidebar {
+    background: var(--vp-c-bg-soft);
     border: 1px solid var(--vp-c-divider);
     margin-bottom: 14px;
+}
+
+.BannerList {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px;
+}
+
+.BannerList img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* ========== MASCOT SIDEBAR ========== */
+
+.MascotSidebar {
+    background: var(--vp-c-bg-soft);
+    border: 1px solid var(--vp-c-divider);
+    margin-bottom: 14px;
+}
+
+.MascotImage {
+    display: block;
+    width: 200px;
+    max-width: 100%;
+    margin: 12px auto;
+}
+
+/* ========== WINDOW TITLE ========== */
+
+.WindowTitle {
+    padding: 6px 10px;
+    border-bottom: 1px solid var(--vp-c-divider);
+    background: linear-gradient(to bottom, var(--vp-c-bg), var(--vp-c-bg-soft));
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--vp-c-text-1);
+    letter-spacing: 0.02em;
+    user-select: none;
 }
