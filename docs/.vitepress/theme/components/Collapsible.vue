@@ -5,7 +5,7 @@
       <span class="collapsible-title">
         <slot name="title">{{ title }}</slot>
       </span>
-      <img src="/assets/misc/icon.png" class="collapsible-decoration" alt="" />
+      <img src="/assets/misc/icon_new_alt.png" class="collapsible-decoration" alt="" />
     </button>
     <div class="collapsible-body" v-show="isOpen">
       <div class="collapsible-content">

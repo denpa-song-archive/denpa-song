@@ -1,11 +1,11 @@
 /* ========== SIDEBAR ========== */
 
 .VPSidebar {
-    background-color: var(--vp-c-bg-soft) !important;
     margin: -25px 0 !important;
     margin-right: 10px !important;
     padding-top: 0px !important;
     padding-bottom: 24px !important;
+    background-color: var(--vp-c-bg-soft) !important;
 }
 
 .VPSidebar .group {
@@ -80,7 +80,9 @@
     .VPSidebarBackdrop {
         background: transparent !important;
     }
+}
 
+@media (max-width: 480px) {
     .VPSidebar {
         box-shadow: 0 8px 20px rgba(0, 0, 0, .1) !important;
     }
@@ -147,6 +149,7 @@
     width: 200px;
     max-width: 100%;
     margin: 12px auto;
+    filter: hue-rotate(-4deg) saturate(1.1);
 }
 
 /* ========== WINDOW TITLE ========== */

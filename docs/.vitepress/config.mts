@@ -11,7 +11,7 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', href: '/assets/misc/icon.ico' }],
+    ['link', { rel: 'icon', href: '/assets/misc/icon_new_alt.ico' }],
     ['meta', { name: 'google-site-verification', content: '3JRpQeAUujxZ0cO-7Tjqan1udYrgepMLMw5LQnnLXiU' }],
     ['meta', { property: 'og:title', content: 'Denpa Song Archive' }],
     ['meta', { property: 'og:description', content: 'Denpa Song Archive to please the heart of otaku!' }],
@@ -25,7 +25,7 @@ export default defineConfig({
   },
   base: "/",
   cleanUrls: true,
-  title: "denpa song ♪〜",
+  title: "denpa song ⚡︎⚡︎",
   description: "resources",
   lastUpdated: false,
   markdown: {
@@ -34,7 +34,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: '/assets/misc/icon.png',
+    logo: '/assets/misc/icon_new_alt.png',
     outline: {
       level: [1, 3],
       label: 'ｷﾀ━━(ﾟ∀ﾟ)━━!!!!.'

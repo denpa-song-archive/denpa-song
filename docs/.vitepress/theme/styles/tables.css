@@ -5,6 +5,7 @@
     min-width: 100% !important;
     table-layout: fixed !important;
     border-collapse: collapse !important;
+    background: var(--vp-c-bg)
 }
 
 .vp-doc table td,

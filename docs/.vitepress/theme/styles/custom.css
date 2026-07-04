@@ -309,11 +309,11 @@
 }
 
 .home-icon {
-    width: 120px;
-    height: 120px;
+    width: 200px;
+    height: 200px;
     object-fit: contain;
     display: block;
-    outline: 2px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);
+    /* outline: 2px solid color-mix(in srgb, var(--vp-c-divider) 50%, transparent); */
 }
 
 .denpa-quote {

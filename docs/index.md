@@ -5,7 +5,7 @@ description: "Denpa Song Archive to please the heart of otaku!"
 ---
 
 <div class="home-icon-container">
-  <img src="/assets/misc/icon.png" alt="Denpa Song" class="home-icon" />
+  <img src="/assets/mascots/denpa_alt.png" alt="Denpa Song" class="home-icon" />
 </div>
 
 <div class="introduction-card-grid">
