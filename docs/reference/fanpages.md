@@ -12,6 +12,7 @@
 
 | Category | Publish Date | Author | Entry |
 |-|-|-|-|
+| Song | July 1, 2010 | Patrick W. Galbraith | [Momoi Halko: The voice of moe is surprisingly deep!](https://otaku2.com/articleView.php?item=673) |
 | Song | 2020 | parz | [UNDER17 Fanpage Jumbo Parfait Edition!](https://jumboparfait.neocities.org/) |
 | Song | May 29, 2021 | parz | [“World Famous Moe Artist” ~ An UNDER17 Retrospective](https://artificialnightsky.wordpress.com/2021/05/29/an-under17-retrospective/)|
 

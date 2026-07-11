@@ -71,6 +71,7 @@ please remember the following quote:
 1980s:
 - japanese bubble economy emerged in 1980s
 - lolicon/bishoujo boom took place in the early 80s
+- video game boom in the 80s (Space Invaders, Pac Man, Donkey Kong, Mario Bros, ...)
 - the anime market was booming as studios had funding; miyazaki hayao would co-found studio ghibli in 1985
 - parody series became popular among doujin audience in the early 80s
 - Nanako SOS by Hideo Azuma starting in April 1980
@@ -114,8 +115,12 @@ please remember the following quote:
 - Moore's Law started showing its true colors in the early 1990s; key ingredients for the eroge/visual-novel boom established
 - katakana otaku (オタク) emerged roughly after tsutumo miyazaki incident that replaced the hiragana otaku (おたく)
 - anime figurines began to take off in the 90s though anime-related figures such as garage kits in the 80s and shokugan in the 60s existed prior to bishoujo figurines
-- during 1991 police arrested the managers of five specialist manga book shops where unpublished or amateur manga was available for sale
-  - amateur manga artists were subjected to repeated investigations and harassment throughout the rest of the year
+- the "Seinen Comics" mark (an 18+ sticker) was adopted in january 1991 to properly mark manga featuring adult content within the manga industry and all genitals were required to be blurred out
+  - those obscenity/waisetsu inspections expanded onto doujinshi 
+- in february 1991 police arrested the managers of five specialist manga book shops (including the manager & 2 staff at 'Shosen Book Mark', the manager of 'Comic Takaoka' & the manager of 'Manga no Mori Shinjuku') 
+  - two more managers were arrested in march alongside sixty seven more taken into custody for questioning#
+- in march, the Chiba Police went to question organizers of comiket after having been informed that there were obscene materials
+  - Makuhari Messe refused to host Comiket in August 1991 (they have hosted Comiket in the previous year) however the organizers of comiket managed to convince the harumi fairgrounds to host the event under the condition that all content must be screened, mosaics imposed & obscene works censored before authorities would get involved
 - AnimeCon '91 is the first anime event to break the 1000-person mark in the US, marking the beginnings of mass otaku & convention culture in the US; this convention was the predecessor to the famous 'Anime Expo'
 - Anime Expo was founded in 1992
 - in 1993, guidance about the appropriate contents of dojinshi were distributed at Comic Market for the first time
@@ -158,6 +163,11 @@ please remember the following quote:
 - Ukagaka emerged alongside OS-tan
 - "Otaku: Japan's Database Animals" published in 2001
 - StepMania was initially released in 2001 as an open source clone of Dance Dance Revolution
+- the Shobunkan Incident (松文館事件) occured in 2002 which was a major japanese waisetsu/obscenity case involving an adult manga called 'Misshitsu' & published by the erotic manga publisher 'Shobunkan'
+  - it became the first manga to become litigated through the court system & ultimately reach the supreme court
+  - the incident occured because a father reportedly found a copy of Misshitsu in the son's room & forwarded a complaint
+  - after the investigtion, the police argued the depictions of genitalia and sexual intercourse were too explicit & that the censorship masking was too insufficient
+  - the artist 'Yūji Suwa', the Shobunkan president 'Motonori Kishi' & the editor 'Kōichi Takada' were all arrested for distributing obscene material under Article 175 of Japan's Penal Code
 - Guidebook of funny dempa song released in the jp community in 2003, making denpa song relevant across jp & western BBSes including 2ch, world2ch, 4-ch and more
 - the "Act on Punishment of Acts Relating to Child Prostitution and Child Pornography, and the Protection of Children" law was amended (modified) and thus saw partial revision in 2004
   - expanding the range of child pornography related acts such as child prostitution, retaining electromagnetic records and other methods (CDs, DVDs, computer files, hard drives, other digital storage media); prior to this revision it had mostly included media like photographs & videotapes
@@ -178,6 +188,8 @@ please remember the following quote:
 - the International Manga Award (Kokusaimangashou) was established in 2007 by special order of the Minister of Foreign Affairs Aso Taro to push the image of 'Cool Japan'
 - Anime Festival Asia first emerged in 2008, bringing southeast asia together to celebrate japanese pop culture in singapore; it has been a regular fixture ever since
 - utaite have gradually popped up in the late 2000s in relation to nico nico douga
+- a particular instance of an otaku flashmob took place in the streets of akihabara in 2007 that is most notably known because the police stopped the flashmob right early during the chorus of the song 'Hare Hare Yukai'; it is the ending theme song of 'The Melancholy of Haruhi Suzumiya' and this flashmob instance has been documented on youtube
+- the 'Sexy Idol' incident had occured on April 21, 2008 where Sawamoto Asuka would flash her panties in public on the streets of akiba, leading to new regulations for public display (e.g. affecting akiba/street idols performing on the streets)
 - Akihabara incident in June 8, 2008 which was caused by Kato Tomohiro who rented a truck and drove into & stabbed a crowd of visitors walking on Chuo-dori street in Akihabara
   - resulting in Chuo-dori being opened to traffic on sundays which would kill public activity as the spot served as a gathering for otaku
   - since this event, people would be arrested for posting threatening notices on BBS sites such as 2ch

@@ -50,6 +50,8 @@ const banners = [
   { img: '/assets/banners/akibablog.webp', link: 'https://akibablog.blog.jp/' },
   { img: '/assets/banners/loli-aishiteiru.png', link: 'https://loli.aishitei.ru/' },
   { img: '/assets/banners/vnclub.png', link: 'https://vnclub.org/' },
+  { img: '/assets/banners/ten.png', link: 'https://discord.com/invite/immerse' },
+  { img: '/assets/banners/bannerdjt.gif', link: 'https://animecards.site/discord' },
 ]
 
 import DefaultTheme from 'vitepress/theme'

@@ -129,6 +129,7 @@
 | 46944381 | May 28, 2024 | Denpa Music Thread | [View](https://warosu.org/jp/thread/46944381) |
 | 49020483 | Mar 3, 2025 | Denpa Thread | [View](https://warosu.org/jp/thread/49020483) |
 | 50838130 | Apr 9, 2026 | denpa-song thread | [View](https://warosu.org/jp/thread/50838130) |
+| 51056094 | June 22, 2026 | DENPA THREAD 2026 EDITION | [View](https://warosu.org/jp/thread/51056094) |
 
 :::
 

@@ -94,6 +94,18 @@ const tables = {
     ],
     post: [
         {
+            name: "Choko",
+            url: "https://chokottodake.com/",
+            x: "https://x.com/cho_v_ko",
+            youtube: "https://www.youtube.com/c/Chokottodake",
+            fanbox: "https://choko.fanbox.cc/",
+            booth: "http://chokottodake.booth.pm/",
+            pixiv: "https://www.pixiv.net/users/18680629",
+            youtubemusic: "https://music.youtube.com/channel/UCoupL81t75_Z4XRKzOSHLbg",
+            applemusic: "https://music.apple.com/fr/artist/choko/1329307678",
+            spotify: "https://open.spotify.com/intl-fr/artist/1uoc2yXhCeoatWeORCJ0Ep"
+        },
+        {
             name: "Kyarameru",
             url: "https://caramelmilk.ame-zaiku.com/",
             x: "https://x.com/caramel_715",
@@ -178,16 +190,6 @@ const tables = {
             spotify: "https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx",
             applemusic: "https://music.apple.com/jp/artist/%E3%81%AA%E3%81%AA%E3%81%B2%E3%82%89/509805207",
             youtubemusic: "https://music.youtube.com/channel/UCyAy_NeCwbW4IaJ6EbjDKQA"
-        },
-        {
-            name: "Choko",
-            url: "https://chokottodake.com/",
-            x: "https://x.com/cho_v_ko",
-            youtube: "https://www.youtube.com/c/Chokottodake",
-            fanbox: "https://choko.fanbox.cc/",
-            booth: "http://chokottodake.booth.pm/",
-            pixiv: "https://www.pixiv.net/users/18680629",
-            youtubemusic: "https://music.youtube.com/channel/UCoupL81t75_Z4XRKzOSHLbg"
         },
         {
             name: "Ui Shigure",
