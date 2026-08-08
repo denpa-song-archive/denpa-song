@@ -4,8 +4,8 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     gap: 1rem;
-    margin: 1.5rem auto;
-    max-width: 750px;
+    margin: 1rem auto;
+    max-width: 1250px;
     width: 100%;
 }
 
@@ -280,67 +280,6 @@
 
 
 /* ========== HOME PAGE TITLE & IMAGE ========== */
-
-/*
-.denpa-title-image {
-    display: block;
-    margin: 0rem auto;
-    max-width: 40%;
-    height: auto;
-    filter: hue-rotate(270deg) saturate(2);
-}
-
-.dark .denpa-title-image {
-    filter: hue-rotate(150deg) invert(1) brightness(5) saturate(0);
-}
-
-@media (max-width: 768px) {
-    .denpa-title-image {
-        margin-top: 1rem;
-        max-width: 75%;
-    }
-}
-*/
-
-.home-icon-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.home-icon {
-    width: 200px;
-    height: 200px;
-    object-fit: contain;
-    display: block;
-    /* outline: 2px solid color-mix(in srgb, var(--vp-c-divider) 50%, transparent); */
-}
-
-.denpa-quote {
-    text-align: center;
-    margin: 1rem 0 1rem;
-    padding: 0.3rem;
-    border-top: 1px solid var(--vp-c-divider);
-    border-bottom: 1px solid var(--vp-c-divider);
-    max-width: 720px;
-    margin: 1rem auto;
-}
-
-.denpa-quote .quote-source {
-    line-height: 1.6;
-}
-
-.denpa-quote p {
-    font-size: 0.7rem;
-    color: var(--vp-c-text-2);
-    margin: 0;
-}
-
-.quote-source {
-    font-size: 0.75rem;
-    color: var(--vp-c-text-3);
-    margin-top: 0rem !important;
-}
 
 /* ========== VIDEO LINK ========== */
 
