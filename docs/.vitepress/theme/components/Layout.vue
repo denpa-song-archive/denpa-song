@@ -2,17 +2,18 @@
   <Layout>
 
     <template #doc-before>
-      <Breadcrumb />
+      <Breadcrumb>
+        <template #end>
+          <VPSwitchAppearance class="breadcrumb-switch" />
+          <button class="MascotButton" @click="showMascot = !showMascot">
+            Qchan
+          </button>
+        </template>
+      </Breadcrumb>
     </template>
 
     <template #layout-bottom>
       <FloatingPlayer />
-    </template>
-
-    <template #nav-bar-content-after>
-      <button class="MascotButton" @click="showMascot = !showMascot">
-        Qchan
-      </button>
     </template>
 
     <template #aside-top>
@@ -46,7 +47,6 @@
   </Layout>
 
   <Mascot v-if="mounted && showMascot" />
-
 </template>
 
 <script setup>
@@ -65,6 +65,7 @@ import { watch, onMounted, onBeforeUnmount, nextTick, ref } from 'vue'
 import Breadcrumb from './Breadcrumb.vue'
 import FloatingPlayer from './FloatingPlayer.vue'
 import Mascot from './Mascot.vue'
+import VPSwitchAppearance from 'vitepress/dist/client/theme-default/components/VPSwitchAppearance.vue'
 
 const { Layout } = DefaultTheme
 const { page } = useData()

@@ -50,6 +50,16 @@
     border: 1px solid var(--vp-c-brand-1) !important;
 }
 
+.breadcrumb-end-wrapper .VPSwitch {
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+    padding: 0 !important;
+    height: 28px !important;
+    min-height: 28px !important;
+    max-height: 28px !important;
+    background: transparent !important;
+}
+
 @media (max-width: 768px) {
     .VPSwitch {
         background-color: transparent !important;

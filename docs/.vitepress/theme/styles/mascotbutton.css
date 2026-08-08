@@ -1,31 +1,44 @@
-    .VPNavBar .MascotButton {
-        height: 40px;
-        display: flex;
-        justify-content: center;
-        background: var(--vp-c-bg) !important;
-        border: none;
-        color: var(--vp-c-text-2);
-        font-size: 13px;
-        cursor: pointer;
-        transition: color .15s ease;
-        border: 1px solid var(--vp-c-divider);
-        margin-top: 40px !important;
-        margin-right: 6px;
-        width: 50px !important;
-        height: 22px !important;
-        color: var(--vp-c-text-2);
-    }
+.MascotButton {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--vp-c-bg) !important;
+    border: none;
+    color: var(--vp-c-text-2);
+    font-size: 13px;
+    cursor: pointer;
+    transition: color .15s ease, border .15s ease;
+    border: 1px solid var(--vp-c-divider);
+    width: 50px !important;
+    height: 22px !important;
+    padding: 0;
+    flex-shrink: 0;
+    text-decoration: none;
+    line-height: 1;
+}
 
-    .VPNavBar .MascotButton:hover {
-        border: 1px solid var(--vp-c-brand-1) !important;
-    }
+.MascotButton:hover {
+    border: 1px solid var(--vp-c-brand-1) !important;
+    color: var(--vp-c-brand-1);
+}
 
-    body:has(.VPHome) .VPNavBar .MascotButton {
+.VPNavBar .MascotButton {
+    margin-top: 40px !important;
+    margin-right: 6px;
+}
+
+.breadcrumb-end-wrapper .MascotButton {
+    margin-top: 0 !important;
+    margin-right: 0 !important;
+}
+
+body:has(.VPHome) .MascotButton {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .MascotButton {
         display: none !important;
     }
-
-    @media (max-width: 768px) {
-        .VPNavBar .MascotButton {
-            display: none !important;
-        }
-    }
+}

@@ -27,6 +27,14 @@
     transform: translateX(20px);
 }
 
+.VPNavBarAppearance {
+    display: none !important;
+}
+
+.VPNavBarExtra .appearance {
+    display: none !important;
+}
+
 /* ========== NAVBAR DIVIDER ========== */
 
 .VPNavBar .divider {
@@ -62,8 +70,8 @@ body:has(.VPHome) .VPNavBarAppearance {
 }
 
 .VPNavBarTitle {
-    margin-top: 19px;
-    margin-left: 22px
+    margin-top: 23px;
+    margin-left: 10px
 }
 
 .VPNavBarTitle .logo {
@@ -73,7 +81,7 @@ body:has(.VPHome) .VPNavBarAppearance {
     top: 0;
     margin-right: 12px;
     margin-left: 0;
-    max-width: 30px;
+    max-width: 22px;
     transition: transform 0.15s ease;
     pointer-events: none !important;
     outline: 1px solid color-mix(in srgb, var(--vp-c-divider) 100%, transparent);

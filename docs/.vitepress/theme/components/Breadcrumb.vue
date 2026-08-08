@@ -27,13 +27,13 @@ const normalizePath = (path) => {
 
 const buildBreadcrumbs = (items, currentPath, breadcrumbPath = []) => {
   const normalizedCurrent = normalizePath(currentPath)
-  
+
   for (const item of items) {
     const itemLink = item.link
     if (!itemLink) continue
-    
+
     const normalizedItem = normalizePath(itemLink)
-    
+
     // Exact match
     if (normalizedItem === normalizedCurrent) {
       return [
@@ -45,12 +45,12 @@ const buildBreadcrumbs = (items, currentPath, breadcrumbPath = []) => {
         }
       ]
     }
-    
+
     // Parent detection
     if (normalizedCurrent.startsWith(normalizedItem + '/') && normalizedItem !== normalizedCurrent) {
       if (item.items && item.items.length > 0) {
         const nestedBreadcrumbs = buildBreadcrumbs(
-          item.items, 
+          item.items,
           currentPath,
           [
             ...breadcrumbPath,
@@ -66,7 +66,7 @@ const buildBreadcrumbs = (items, currentPath, breadcrumbPath = []) => {
         }
       }
     }
-    
+
     // Search children
     if (item.items && item.items.length > 0) {
       const nestedBreadcrumbs = buildBreadcrumbs(item.items, currentPath, breadcrumbPath)
@@ -85,26 +85,21 @@ const breadcrumbs = computed(() => {
 </script>
 
 <template>
-  <nav v-if="breadcrumbs.length > 0" class="breadcrumb" aria-label="Breadcrumb">
+  <nav v-if="breadcrumbs.length > 0 || $slots.end" class="breadcrumb" aria-label="Breadcrumb">
     <ol class="breadcrumb-list">
+      <!-- Home icon -->
       <li class="breadcrumb-home-item">
         <a href="/" class="breadcrumb-home">
           <span class="i-lucide:home w-4 h-4"></span>
         </a>
       </li>
-      <li 
-        v-for="(crumb, index) in breadcrumbs" 
-        :key="crumb.link || index"
-        class="breadcrumb-item"
-      >
+
+      <!-- Breadcrumb items -->
+      <li v-for="(crumb, index) in breadcrumbs" :key="crumb.link || index" class="breadcrumb-item">
         <span class="breadcrumb-separator">
           <span class="i-lucide:chevron-right w-4 h-4"></span>
         </span>
-        <a 
-          v-if="index !== breadcrumbs.length - 1" 
-          :href="crumb.link"
-          class="breadcrumb-link"
-        >
+        <a v-if="index !== breadcrumbs.length - 1" :href="crumb.link" class="breadcrumb-link">
           <span v-if="crumb.icon" :class="[crumb.icon, 'breadcrumb-icon']"></span>
           <span class="breadcrumb-text" v-html="crumb.text"></span>
         </a>
@@ -113,13 +108,23 @@ const breadcrumbs = computed(() => {
           <span class="breadcrumb-text" v-html="crumb.text"></span>
         </span>
       </li>
+
+      <!-- Spacer to push end content to the right -->
+      <li class="breadcrumb-spacer"></li>
+
+      <!-- End content slot - wrapped in a div to ensure proper rendering -->
+      <li class="breadcrumb-end-content">
+        <div class="breadcrumb-end-wrapper">
+          <slot name="end"></slot>
+        </div>
+      </li>
     </ol>
   </nav>
 </template>
 
 <style scoped>
 .breadcrumb {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.0rem;
   font-size: 0.875rem;
 }
 
@@ -156,7 +161,7 @@ const breadcrumbs = computed(() => {
 .breadcrumb-current {
   display: inline-flex;
   align-items: center;
-  gap: 0.375rem;  /* This creates space between icon and text */
+  gap: 0.375rem;
 }
 
 .breadcrumb-link {
@@ -180,7 +185,6 @@ const breadcrumbs = computed(() => {
   color: var(--vp-c-text-3);
 }
 
-/* Icon styling */
 .breadcrumb-icon {
   width: 1rem;
   height: 1rem;
@@ -190,12 +194,10 @@ const breadcrumbs = computed(() => {
   flex-shrink: 0;
 }
 
-/* Text styling */
 .breadcrumb-text {
   display: inline-block;
 }
 
-/* Home icon */
 .breadcrumb-home span {
   width: 1rem;
   height: 1rem;
@@ -204,12 +206,52 @@ const breadcrumbs = computed(() => {
   justify-content: center;
 }
 
-/* Separator icon */
 .breadcrumb-separator span {
   width: 1rem;
   height: 1rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
+}
+
+.breadcrumb-spacer {
+  flex: 1;
+}
+
+.breadcrumb-end-content {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.breadcrumb-end-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100px;
+}
+
+/* Deep styles to properly style the switch inside the breadcrumb */
+.breadcrumb-end-wrapper :deep(.VPSwitch) {
+  display: inline-flex;
+  align-items: center;
+}
+
+.breadcrumb-end-wrapper :deep(.VPSwitchAppearance) {
+  display: inline-flex;
+  align-items: center;
+}
+
+.breadcrumb-end-wrapper :deep(.MascotButton) {
+  margin: 0 !important;
+}
+
+/* Fix for the appearance switch - make it display inline */
+.breadcrumb-end-wrapper :deep(.VPSwitch) {
+  vertical-align: middle;
+}
+
+.breadcrumb-end-wrapper :deep(.VPSwitch .VPSwitchAppearance) {
+  display: inline-flex;
 }
 </style>
