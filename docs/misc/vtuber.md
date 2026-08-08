@@ -19,3 +19,4 @@
 | Pinky Pop Hepburn | [Youtube](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA){.secondary} |
 | Cherry | [lit.link](https://lit.link/en/rnilky) |
 | Tomoe Tamiyasu | [lit.link](https://lit.link/en/tammy69) |
+| Ichigo Kinoshita | [Youtube](https://www.youtube.com/user/kinositaichigo) |

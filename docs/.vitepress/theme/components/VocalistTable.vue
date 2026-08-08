@@ -31,7 +31,8 @@ const tables = {
             url: "https://web.archive.org/web/20250430094224/https://rg-music.com/momoi/",
             x: "https://x.com/momoiktkr",
             youtube: "https://www.youtube.com/@momoiktkr",
-            youtubemusic: "https://music.youtube.com/channel/UCXnav37LEiPyLd-2qNlKVDw"
+            youtubemusic: "https://music.youtube.com/channel/UCXnav37LEiPyLd-2qNlKVDw",
+            instagram: "https://www.instagram.com/momoiktkr/"
         },
         {
             name: "miiko",
@@ -103,7 +104,8 @@ const tables = {
             pixiv: "https://www.pixiv.net/users/18680629",
             youtubemusic: "https://music.youtube.com/channel/UCoupL81t75_Z4XRKzOSHLbg",
             applemusic: "https://music.apple.com/fr/artist/choko/1329307678",
-            spotify: "https://open.spotify.com/intl-fr/artist/1uoc2yXhCeoatWeORCJ0Ep"
+            spotify: "https://open.spotify.com/intl-fr/artist/1uoc2yXhCeoatWeORCJ0Ep",
+            soundcloud: "https://soundcloud.com/chokottodake"
         },
         {
             name: "Kyarameru",
@@ -322,6 +324,8 @@ const tables = {
             url: "https://jinseisoudan15.wixsite.com/radio",
             x: "https://x.com/_kumaichigo_",
             youtube: "https://www.youtube.com/user/kinositaichigo",
+            fanbox: "https://inuzuka15.fanbox.cc/",
+            tiktok: "https://www.tiktok.com/@inuzuka_15"
         },
         {
             name: "Hotarutan",

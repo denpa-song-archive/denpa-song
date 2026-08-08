@@ -18,6 +18,7 @@
 | 1987 | おくちが・ガー・ガー | <VideoLink src="/videos/きどりっこ - おくちが・ガー・ガー.mp4" title="おくちが・ガー・ガー" /> |
 | 1987 | たそがれロンリ | <VideoLink src="/videos/レモンエンジェル - たそがれロンリー.mp4" title="たそがれロンリ" /> |
 | 1987 | 世界あの店この店 | <VideoLink src="/videos/ZIN SAY (人生) - 世界あの店この店.mp4" title="世界あの店この店" /> |
+| 1989 | 君はホエホエ娘（アイドル八犬伝）| <VideoLink src="/videos/【名曲】君はホエホエ娘（アイドル八犬伝）.mp4" title="【名曲】君はホエホエ娘（アイドル八犬伝）" /> |
 | 1990 | 秘密よDIET | <VideoLink src="/videos/Himitsu Yo Diet.mp4" title="秘密よDIET" /> |
 | 1990 | 男と女はパピプペポ | <VideoLink src="/videos/男と女はパピプペポ.mp4" title="男と女はパピプペポ" /> |
 | 1990 | 乱馬ダ☆RANMA | <VideoLink src="/videos/らんま1／2 熱闘編 ED2「乱馬ダ☆RANMA」.mp4" title="乱馬ダ☆RANMA" /> |

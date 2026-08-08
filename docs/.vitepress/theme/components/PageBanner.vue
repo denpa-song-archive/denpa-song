@@ -31,6 +31,7 @@ defineProps({
     overflow: hidden;
     border: 2px solid color-mix(in srgb, var(--vp-c-divider) 60%, transparent);
     image-rendering: pixelated;
+    background: var(--vp-c-bg-soft2);
 }
 
 .banner-image {

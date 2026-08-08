@@ -40,7 +40,7 @@ const toggle = () => {
 .custom-collapsible {
   border: 1px solid var(--vp-c-divider);
   margin: 1rem 0;
-  background: var(--vp-c-bg-soft);
+  background: var(--vp-c-bg-soft2);
   overflow: hidden;
   transition: all 0.2s ease;
 }
@@ -55,7 +55,7 @@ const toggle = () => {
   gap: 0.5rem;
   width: 100%;
   padding: 6px 6px;
-  background: var(--vp-c-bg-soft);
+  background: var(--vp-c-bg-soft2);
   border: none;
   cursor: pointer;
   font-size: 1rem;

@@ -141,11 +141,13 @@ please remember the following quote:
   - starting the real akiba transformation, causing shops selling figurines and doujinshi to boom
   - evangelion eventually ran out of funds towards the end of the 26-episode run, with the last two episodes being filled by "The End of Evangelion" with the last two episodes serving as an alternate ending
 - anime became increasingly popular overseas in the mid-late 90s, eventually leading to the government taking notice & rolling out the 'Cool Japan' initiative in the upcoming decade
+- the first maid/cosplay cafes emerged in the late 90s and became popular at sales events for dating simulator games (e.g. Welcome to Pia Carrot, 1996)
 - the 'Sakakibara' incident had occured in 1997, caused by a juvenile murderer whose name cannot be released but is often called "Shonen A."; he murdered a ten year old girl & beheaded an eleven year old boy, leaving the mutilated head in front of his school; the press called him a hikikomori; parallels were made to other "otaku" criminals such as miyazaki tsutomu and aum shinrikyo once they discovred ero-manga, anime & pornography in his room
 - Haruko Momoi, one of the earliest akiba-idols, debuted with her song 'GURA GURA', recorded in the center of akihabara in 1997
 - figure maker Kaiyodo moved from Shibuya to Akihabara, and other otaku-oriented stores followed
 - Beatmania released in December 1997, sparking the boom of music games in 1998
 - Dance Dance Revolution released in in 1998, finding huge success outside of japan as well
+- Di Gi Charat released in 1998; a non-sexual series dedicated to moe affection; an amalgamation of codes from the moe database merging together to evoke moe affection
 - Windows PC (x86, Windows 95/98/2000)
   - introducing bishoujo games
 - a bombing incident occured at Comiket 54 in 1998 in response to the hatred for otaku
@@ -158,7 +160,7 @@ please remember the following quote:
 ---
 
 2000s:
-- early 2000s saw the rise of maid cafés across akihabara and elsewhere as the maid boom was in full swing
+- early-mid 2000s saw maid cafés across akihabara and elsewhere as the maid boom was in full swing, and the first permanent maid café emerged in 2001 in akihabara
 - OS-tan as a branch of moe anthropomorphism in the 2000s to accommodate depiction operating systems as moe characters
 - Ukagaka emerged alongside OS-tan
 - "Otaku: Japan's Database Animals" published in 2001

@@ -34,6 +34,13 @@
         </div>
         <img src="/assets/mascots/denpa.png" alt="Denpa song mascot" class="MascotImage" />
       </div>
+
+      <div class="MascotSidebar">
+        <div class="WindowTitle">
+          umauma
+        </div>
+        <img src="/assets/misc/umauma.gif" alt="umauma" class="MascotImage" />
+      </div>
     </template>
 
   </Layout>
@@ -49,8 +56,6 @@ const banners = [
   { img: '/assets/banners/denpanosekai.jpg', link: 'https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/' },
   { img: '/assets/banners/akibablog.webp', link: 'https://akibablog.blog.jp/' },
   { img: '/assets/banners/loli-aishiteiru.png', link: 'https://loli.aishitei.ru/' },
-  { img: '/assets/banners/vnclub.png', link: 'https://vnclub.org/' },
-  { img: '/assets/banners/ten.png', link: 'https://discord.com/invite/immerse' },
   { img: '/assets/banners/bannerdjt.gif', link: 'https://animecards.site/discord' },
 ]
 

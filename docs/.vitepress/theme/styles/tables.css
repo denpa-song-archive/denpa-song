@@ -5,7 +5,6 @@
     min-width: 100% !important;
     table-layout: fixed !important;
     border-collapse: collapse !important;
-    background: var(--vp-c-bg)
 }
 
 .vp-doc table td,
@@ -17,15 +16,15 @@
 }
 
 .vp-doc table th {
-    background: var(--vp-c-bg-soft);
+    background: var(--vp-c-bg-soft2);
 }
 
 .vp-doc table tr:nth-child(even) {
-    background: var(--vp-c-bg-soft);
+    background: var(--vp-c-bg-soft2);
 }
 
 .vp-doc table tr:nth-child(odd) {
-    background: var(--vp-c-bg-soft);
+    background: var(--vp-c-bg-soft2);
 }
 
 .directory-table-wrapper img {

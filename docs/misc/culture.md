@@ -14,6 +14,7 @@
 | 2001 | Hiroki Azuma | Otaku: Japan's Database Animals | [View](https://archive.org/download/otaku-hiroki-azuma/Otaku%20-%20Hiroki%20Azuma.pdf) |
 | 2001 | Charles T. Whipple | The Silencing of the Lambs | [View](http://web.archive.org/web/20070818192957/http://www.charlest.whipple.net/miyazaki.html) |
 | 2003 | - | Moetry for you | [View](https://web.archive.org/web/20030226174948/http://www.sky.sannet.ne.jp/ma1919/moetry.html) |
+| November 9, 2003 | kj1980 | Japanese otaku lingo  | [View](https://web.archive.org/web/20240225025228/https://forums.animesuki.com/showthread.php?t=29911) |
 | July 18, 2005 | Kazami | 日記帳 (７月１８日) | [View](https://web.archive.org/web/20050728101747/http://www.ailove.net/diaries/diary.cgi) |
 | July 20, 2005 | Matthew  | Wednesday Notes.... Akamatsu-sensei Talks "Moe" | [View](https://web.archive.org/web/20060215052847/http://matthew.animeblogger.net/archives/2005/07/20/wednesday_notes_akamatsu-sensei_talks_moe.php) |
 | December 7, 2005 | Shingo | The Moe Image | [View](https://web.archive.org/web/20060220191453/https://www.heiseidemocracy.net/2005/12/07/the-moe-image/) |
@@ -29,6 +30,7 @@
 | February 20, 2009 | FUJII Yoshihiko | 元祖「おたく」の時代(その5) | [View](http://www.t3.rim.or.jp/~boogie/e590.htm) |
 | February 27, 2009 | FUJII Yoshihiko | 元祖「おたく」の時代(その6) | [View](http://www.t3.rim.or.jp/~boogie/e591.htm) |
 | 2009 | Patrick W. Galbraith | The Otaku Encyclopedia: An Insider's Guide to the Subculture of Cool Japan | [View](https://www.scribd.com/document/868980884/The-Otaku-Encyclopedia-an-Insider-s-Guide-to-the-Patrick-W-Galbraith-Patrick-W-Galbraith-1st-Ed-New-York-New-York-State-2009-978477003) |
+| 2009 | Patrick W. Galbraith | Moe: Exploring Virtual Potential in Post-Millennial Japan | [View](https://www.japanesestudies.org.uk/articles/2009/Galbraith.html) |
 | March 7th, 2011 | Saitō Tamaki | Beautiful Fighting Girl | [View](https://www.thetedkarchive.com/library/saito-tamaki-beautiful-fighting-girl) |
 | 2011 | Patrick W. Galbraith | Lolicon: The Reality of 'Virtual Child Pornography' in Japan | [View](https://files.catbox.moe/ka90tr.pdf) |
 | January 5, 2012 | Ryan Holmberg | The Bottom of a Bottomless Barrel: Introducing Akahon Manga | [View](https://www.tcj.com/the-bottom-of-a-bottomless-barrel-introducing-akahon-manga/) |
