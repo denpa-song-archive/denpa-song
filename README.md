@@ -3,7 +3,7 @@
 
 # 電波ソング・アーカイブ · Denpa Song Archive
   
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/CC%20BY--SA%204.0-f0eedc?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/CC%20BY--SA%204.0-4f2d38?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![npm](https://img.shields.io/badge/npm-4f2d38?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4f2d38?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-4f2d38?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
