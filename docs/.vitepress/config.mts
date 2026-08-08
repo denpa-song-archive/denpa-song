@@ -83,11 +83,6 @@ export default defineConfig({
             collapsed: true,
             link: '/about/glossary'
           },
-          {
-            text: '<span class="i-lucide:chart-spline"></span> 🚧 Timeline',
-            collapsed: false,
-            link: '/about/timeline'
-          },
           /*
           {
             text: '<span class="i-lucide:book-search"></span> 🚧 Etymology',
@@ -98,8 +93,8 @@ export default defineConfig({
         ]
       },
       {
-        text: '<span class="i-lucide:user"></span> Bodies',
-        collapsed: false,
+        text: '<span class="i-lucide:user"></span> Bodies (8)',
+        collapsed: true,
         link: '/bodies/',
         items: [
           {
@@ -150,8 +145,8 @@ export default defineConfig({
         ]
       },
       {
-        text: '<span class="i-lucide:book-open"></span> Reference',
-        collapsed: false,
+        text: '<span class="i-lucide:book-open"></span> References (8)',
+        collapsed: true,
         link: '/reference/',
         items: [
           {
@@ -250,11 +245,6 @@ export default defineConfig({
             link: '/misc/banner',
           },
           {
-            text: '<span class="i-lucide:graduation-cap"></span> Culture Reading',
-            collapsed: true,
-            link: '/misc/culture',
-          },
-          {
             text: '<span class="i-lucide:venetian-mask"></span> VTuber',
             collapsed: true,
             link: '/misc/vtuber',
@@ -263,6 +253,16 @@ export default defineConfig({
             text: '<span class="i-lucide:house-heart"></span> Communities',
             collapsed: true,
             link: '/misc/communities',
+          },
+          {
+            text: '<span class="i-lucide:chart-spline"></span> 🚧 Timeline',
+            collapsed: false,
+            link: '/misc/timeline'
+          },
+          {
+            text: '<span class="i-lucide:graduation-cap"></span> Culture Reading',
+            collapsed: true,
+            link: '/misc/culture',
           },
         ]
       },

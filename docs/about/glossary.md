@@ -273,7 +273,7 @@
   <div class="term-details">
     <span class="term-title">Moe</span>
     <span class="term-subtitle">Moé / Budding</span>
-    <span class="term-description">Affection or emotional response to characters</span>
+    <span class="term-description">Affection or emotional response to characters; moe anthromorphism is the magic of turning objects into characters through attributes and traits that are known to evoke moe</span>
   </div>
 </div>
 
