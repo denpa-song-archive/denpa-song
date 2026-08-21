@@ -4,10 +4,11 @@
   image="/assets/banners_page/vocalists.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that vocalists are usually the frontmen/singers and in some cases might also take the role of the arranger or composer
 - please note that some of them go by their real name, especially talents who voiced for eroge soundtracks
+- please note that the vocalists here may serve different context; game music (eroge, nakige, indie games, ..), utaite, idol culture (including akihabara idols), doujin culture (circles)
 
 </Collapsible>
 

@@ -4,7 +4,7 @@
   image="/assets/banners_page/units.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that units are usually temporary groups organized or presented by a circle
 - please note that units are not limited to circles but may be a standalone

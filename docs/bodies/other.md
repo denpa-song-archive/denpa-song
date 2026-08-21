@@ -4,7 +4,7 @@
   image="/assets/banners_page/other.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that these are exception cases where they may not fit the label, circle or unit category despite resembling some sort of group; usually because of the involvement of a legal system, being a separate division of a circle or being a separate alias before the retirement or reformation of the label or circle
 

@@ -689,7 +689,7 @@
   <span class="term-main">DAICON FILM</span>
   <div class="term-details">
     <span class="term-title">Daicon</span>
-    <span class="term-subtitle">The legendary anime that started it all</span>
+    <span class="term-subtitle">Daicon</span>
     <span class="term-description">A series of short fan-made animated films created for the Japanese SF (sci-fi) conventions "DAICON III" (1981) and "DAICON IV" (1983) in Osaka; the films were made by a group of amateur college students who later formed the legendary animation studio GAINAX, the creators of 'Neon Genesis Evangelion', 'Gunbuster' & 'FLCL'; core members included Hideaki Anno, Toshio Okada, Hiroyuki Yamaga, Yoshiyuki Sadamoto & Takami Akai; DAICON IV film is famous for the great amount of otaku references featuring over 100 characters from anime, manga & SF; the animation quality was mind-blowing & it became a legendary cult classic among early otaku, symbolically setting the stone for modern otaku culture; Densha Otoko (2005) references the DAICON IV anime & uses the same theme song</span>
   </div>
 </div>
@@ -739,7 +739,14 @@
   </div>
 </div>
 
-
+<div class="term-card">
+  <span class="term-main">Otaku</span>
+  <div class="term-details">
+    <span class="term-title">Otaku</span>
+    <span class="term-subtitle">Otaku (1994 Documentary)</span>
+    <span class="term-description">A 1994 documentary directed by french filmmaker Jean-Jacques Beineix & Jackie Bastide; a rare non-judgmental look at japanese otaku during the early 90s after the miyazaki panic took place but before the internet shaped the modern landscape for many otaku to come; the film features interviews with a wide range of otaku: anime fans, game collectors, idol followers, military otaku (-> LARP) & many more</span>
+  </div>
+</div>
 
 </div>
 

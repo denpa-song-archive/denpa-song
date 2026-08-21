@@ -11,7 +11,7 @@ import PageBanner from './components/PageBanner.vue'
 
 if (typeof window !== 'undefined') {
   (function () {
-    let title = "denpa song archive ⚡︎⚡︎ ";
+    let title = "denpa song archive ⚡︎ ";
     let position = 0;
     let interval: any;
 

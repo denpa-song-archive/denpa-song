@@ -4,7 +4,7 @@
   image="/assets/banners_page/timeline.png"
 />
 
-<Collapsible title="Work in progress">
+<Collapsible title="Work in progress" :defaultOpen="true">
 
 to understand context, we must look at the environment; denpa-song went through various periods & is generally strongly associated with entertainment & japanese culture
 
@@ -137,7 +137,6 @@ please remember the following quote:
       - popular denpa vn authors SCA-DI & Tanaka Romeo
 - rise of moe songs (akiba-idol, theme songs, eroge songs) in the mid 1990s (inspired by idol culture, mahou shoujo genre, bishoujo & internet technology)
 - Neon Genesis Evangelion had aired starting in 1995, inspiring this period nicknamed by 'Evangelion Boom' & kicking off the anime bubble
-  - inspiring "Serial Experiments Lain", "Paranoia Agent", "Perfect Blue"
   - starting the real akiba transformation, causing shops selling figurines and doujinshi to boom
   - evangelion eventually ran out of funds towards the end of the 26-episode run, with the last two episodes being filled by "The End of Evangelion" with the last two episodes serving as an alternate ending
 - anime became increasingly popular overseas in the mid-late 90s, eventually leading to the government taking notice & rolling out the 'Cool Japan' initiative in the upcoming decade

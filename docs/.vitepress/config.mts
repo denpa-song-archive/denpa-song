@@ -25,7 +25,7 @@ export default defineConfig({
   },
   base: "/",
   cleanUrls: true,
-  title: "denpa song ⚡︎⚡︎",
+  title: "denpa song",
   description: "resources",
   lastUpdated: false,
   markdown: {

@@ -4,7 +4,7 @@
   image="/assets/banners_page/reference_media.png"
 />
 
-<Collapsible title="Notice">
+<Collapsible title="Notice" :defaultOpen="true">
 
 - Last updated: May 6, 2026
 
@@ -126,7 +126,8 @@
 | - | @DeltaEpsilon7787 | Denpa Cult: the Denparty | 3,992 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UWc0erHv9Lnkfw6J5BlOFYT) |
 | - | @DeltaEpsilon7787 | [Broken Playlist] Denparty | 3,370 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UW3V5Xysnxn9s9yITECJWhc) |
 | - | @kirakiratenshi | ゆんゆん電波シンドローム | 95 | [Watch](https://www.youtube.com/playlist?list=PLN2ROO0V0tR1BEHej17idePELgIFxGhXA) |
-| - | @ppuzzlee | 電波ソング | 337 | [Watch](https://www.youtube.com/playlist?list=PLL9-sWvRghMf0WyxL58RQn05pAO85dvil) |
+| - | @ppuzzlee | 電波ソング | 337 | [Watch](https://youtube.com/playlist?list=PLL9-sWvRghMf0WyxL58RQn05pAO85dvil) |
+| - | @TheAudiotaku | DENPA-KEI MADNESS (電波系) | 719 | [Watch](https://www.youtube.com/playlist?list=PLJ9r8nGHGx6Ylifqu50Sb1UEL7ZeC2GxD) |
 
 #### Artist specific
 
@@ -142,7 +143,8 @@
 
 | Author | Playlist |
 |-|-|
-| Shamrock | [DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec) |
+| ~~Shamrock~~ | ~~[DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec)~~ |
+| raisin | [DENPA](https://open.spotify.com/playlist/1S1725sGgEeqgQm5s6CJse) |
 
 ---
 

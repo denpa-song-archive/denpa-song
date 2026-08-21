@@ -4,7 +4,7 @@
   image="/assets/banners_page/talent_agencies.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that publishers, labels & talent agencies involve a legal system and are officially registered
 - talent agencies feature talents who have voiced for eroge soundtracks which is relevant in terms of denpa song

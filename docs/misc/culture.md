@@ -15,6 +15,7 @@
 | 2001 | Charles T. Whipple | The Silencing of the Lambs | [View](http://web.archive.org/web/20070818192957/http://www.charlest.whipple.net/miyazaki.html) |
 | 2003 | - | Moetry for you | [View](https://web.archive.org/web/20030226174948/http://www.sky.sannet.ne.jp/ma1919/moetry.html) |
 | November 9, 2003 | kj1980 | Japanese otaku lingo  | [View](https://web.archive.org/web/20240225025228/https://forums.animesuki.com/showthread.php?t=29911) |
+| March 1, 2005 | Honda Toru | 電波男 | [View](https://archive.org/details/2005_20200222/mode/2up) |
 | July 18, 2005 | Kazami | 日記帳 (７月１８日) | [View](https://web.archive.org/web/20050728101747/http://www.ailove.net/diaries/diary.cgi) |
 | July 20, 2005 | Matthew  | Wednesday Notes.... Akamatsu-sensei Talks "Moe" | [View](https://web.archive.org/web/20060215052847/http://matthew.animeblogger.net/archives/2005/07/20/wednesday_notes_akamatsu-sensei_talks_moe.php) |
 | December 7, 2005 | Shingo | The Moe Image | [View](https://web.archive.org/web/20060220191453/https://www.heiseidemocracy.net/2005/12/07/the-moe-image/) |
@@ -49,6 +50,7 @@
 | - | ChosenX_ | Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1) | [View](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
 | - | - | 2 Channel — English Navigator ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━!!!!! | [View](https://services.4-ch.net/2chportal/) |
 | - | Parzival | Honda Toru: The Otaku Critique | [View](https://www.scribd.com/document/856526091/Love-is-Dead) |
+| - | Parzival | Honda-san Resourcces | [View](https://artificialnightsky.neocities.org/honda-san/resources) |
 
 ---
 

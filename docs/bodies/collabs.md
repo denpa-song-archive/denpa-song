@@ -4,9 +4,9 @@
   image="/assets/banners_page/collabs.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
-- collaborations are collaborations between two artists or units
+- collaborations occur between two artists or units
 
 </Collapsible>
 

@@ -4,7 +4,7 @@
   image="/assets/banners_page/circles.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that a circle involves no legal system
 - please note that members may have been former members

@@ -4,7 +4,7 @@
   image="/assets/banners_page/labels.png"
 />
 
-<Collapsible title="To explain the listings">
+<Collapsible title="To explain the listings" :defaultOpen="true">
 
 - please note that publishers, labels & talent agencies involve a legal system and are officially registered
 
